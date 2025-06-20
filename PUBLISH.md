@@ -50,7 +50,7 @@ git init
 2. **添加远程仓库**
 ```bash
 # 替换为您的组织仓库地址
-git remote add origin https://github.com/YOUR_ORG/datacenter-crawler-southwest-china.git
+git remote add origin https://github.com/AAKandGLZ/datacenter-crawler-southwest-china.git
 ```
 
 3. **提交文件**

@@ -23,7 +23,7 @@
 
 ```bash
 # 克隆项目
-git clone https://github.com/YOUR_ORG/datacenter-crawler-southwest-china.git
+git clone https://github.com/AAKandGLZ/datacenter-crawler-southwest-china.git
 cd datacenter-crawler-southwest-china
 
 # 安装Python依赖
