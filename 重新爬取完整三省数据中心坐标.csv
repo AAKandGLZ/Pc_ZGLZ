@@ -1,0 +1,35 @@
+﻿province,latitude,longitude,name,source,coordinates,index
+四川省,30.6508899,104.07572,CTU1 Sichuan Sheng Data Center,四川省-sichuan-sheng,"30.6508899,104.07572",1
+四川省,30.572141,104.0656266,Chengdu Taisheng IDC Data Center,四川省-sichuan-sheng,"30.572141,104.0656266",2
+四川省,30.6635912,104.0770158,Yibin IDC Data Center,四川省-sichuan-sheng,"30.6635912,104.0770158",3
+四川省,28.7591192,104.6384874,Chengdu Shahebao IDC Data Center,四川省-sichuan-sheng,"28.7591192,104.6384874",4
+四川省,30.622647,104.124024,Chengdu 6 Data Center,四川省-sichuan-sheng,"30.622647,104.124024",5
+四川省,30.6494713,103.8175958,Tianfu Hotline 2 Hub Data Center,四川省-sichuan-sheng,"30.6494713,103.8175958",6
+四川省,30.6700466,103.9993156,Chengdu Lotus IDC Data Center,四川省-sichuan-sheng,"30.6700466,103.9993156",7
+四川省,30.635812,104.0954743,Ziyang Data Center,四川省-sichuan-sheng,"30.635812,104.0954743",8
+四川省,30.1340999,104.6357034,Chengdu Xixin IDC Data Center,四川省-sichuan-sheng,"30.1340999,104.6357034",9
+四川省,30.5528717,104.0568206,Neijiang IDC Data Center,四川省-sichuan-sheng,"30.5528717,104.0568206",10
+四川省,29.6085134,105.0672464,Mianyang China Telecom Data Center,四川省-sichuan-sheng,"29.6085134,105.0672464",11
+四川省,31.4732595,104.7381834,Yinzhou Telecom IDC Data Center,四川省-sichuan-sheng,"31.4732595,104.7381834",12
+四川省,28.8711301,105.4392334,Panzhihua Renmin Street Data Center,四川省-sichuan-sheng,"28.8711301,105.4392334",13
+四川省,26.5761171,101.708807,Dazhou Data Center,四川省-sichuan-sheng,"26.5761171,101.708807",14
+四川省,31.1978662,107.5090321,GDS CD2 Data Center,四川省-sichuan-sheng,"31.1978662,107.5090321",15
+四川省,30.5542255,104.2646142,Mianyang Yongxing Data Center,四川省-sichuan-sheng,"30.5542255,104.2646142",16
+四川省,31.4542513,104.6384774,Chengdu Guanghua IDC Data Center,四川省-sichuan-sheng,"31.4542513,104.6384774",17
+四川省,30.6775863,103.8874087,Chengdu Xixin West District Data Center,四川省-sichuan-sheng,"30.6775863,103.8874087",18
+四川省,30.7584381,103.899651,Nanchong Data Center,四川省-sichuan-sheng,"30.7584381,103.899651",19
+四川省,30.765906,103.903881,CTU4 Chengdu Data Center,四川省-si-chuan-sheng,"30.765906,103.903881",20
+四川省,30.647958,103.8181561,Chengdu Data Center CD1,四川省-si-chuan-sheng,"30.647958,103.8181561",21
+四川省,31.4738073,104.6841904,Chengdu Data Center CD2,四川省-si-chuan-sheng,"31.4738073,104.6841904",22
+四川省,30.55177,104.066898,GDS Ltd,四川省-si-chuan-sheng,"30.55177,104.066898",23
+四川省,30.61302,104.07692,四川省数据中心6,四川省-si-chuan-sheng,"30.61302,104.07692",24
+四川省,31.142681,104.417051,Leshan Tianxing Road Data Center,四川省-sichuan,"31.142681,104.417051",25
+四川省,29.555374,103.761329,Guangyuan IDC Data Center,四川省-sichuan,"29.555374,103.761329",26
+四川省,32.433755,105.845307,Sichuan,四川省-sichuan,"32.433755,105.845307",27
+云南省,25.0452999,102.7097299,Kunming 72 Bureau IDC Data Center,云南省-yunnan-sheng,"25.0452999,102.7097299",28
+云南省,24.9939041,102.7806944,China Telecom,云南省-yunnan-sheng,"24.9939041,102.7806944",29
+贵州省,26.5981999,106.70722,Guizhou Data Center,贵州省-guizhou,"26.5981999,106.70722",30
+贵州省,26.6475899,106.63019,Guian Data Center,贵州省-guizhou,"26.6475899,106.63019",31
+贵州省,26.34711,106.45456,Guiyang Cloud Computing Park Data Center,贵州省-guizhou,"26.34711,106.45456",32
+贵州省,26.405715,106.256412,Guizhou Telecom Second Hub Data Center,贵州省-guizhou,"26.405715,106.256412",33
+贵州省,26.60145,106.622453,China Telecom,贵州省-guizhou,"26.60145,106.622453",34

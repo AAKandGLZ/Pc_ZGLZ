@@ -1,0 +1,170 @@
+{
+  "summary": {
+    "total_coordinates": 9,
+    "sources": [
+      "si-chuan-sheng",
+      "sichuan"
+    ],
+    "check_time": "2025-06-20"
+  },
+  "unique_coordinates": [
+    {
+      "index": 1,
+      "latitude": 30.6508899,
+      "longitude": 104.07572,
+      "coordinates": "30.6508899,104.07572"
+    },
+    {
+      "index": 2,
+      "latitude": 30.765906,
+      "longitude": 103.903881,
+      "coordinates": "30.765906,103.903881"
+    },
+    {
+      "index": 3,
+      "latitude": 30.647958,
+      "longitude": 103.8181561,
+      "coordinates": "30.647958,103.8181561"
+    },
+    {
+      "index": 4,
+      "latitude": 31.4738073,
+      "longitude": 104.6841904,
+      "coordinates": "31.4738073,104.6841904"
+    },
+    {
+      "index": 8,
+      "latitude": 30.55177,
+      "longitude": 104.066898,
+      "coordinates": "30.55177,104.066898"
+    },
+    {
+      "index": 9,
+      "latitude": 30.61302,
+      "longitude": 104.07692,
+      "coordinates": "30.61302,104.07692"
+    },
+    {
+      "index": 2,
+      "latitude": 31.142681,
+      "longitude": 104.417051,
+      "coordinates": "31.142681,104.417051"
+    },
+    {
+      "index": 3,
+      "latitude": 29.555374,
+      "longitude": 103.761329,
+      "coordinates": "29.555374,103.761329"
+    },
+    {
+      "index": 4,
+      "latitude": 32.433755,
+      "longitude": 105.845307,
+      "coordinates": "32.433755,105.845307"
+    }
+  ],
+  "source_details": {
+    "si-chuan-sheng": {
+      "coordinates": [
+        {
+          "index": 1,
+          "latitude": 30.6508899,
+          "longitude": 104.07572,
+          "coordinates": "30.6508899,104.07572"
+        },
+        {
+          "index": 2,
+          "latitude": 30.765906,
+          "longitude": 103.903881,
+          "coordinates": "30.765906,103.903881"
+        },
+        {
+          "index": 3,
+          "latitude": 30.647958,
+          "longitude": 103.8181561,
+          "coordinates": "30.647958,103.8181561"
+        },
+        {
+          "index": 4,
+          "latitude": 31.4738073,
+          "longitude": 104.6841904,
+          "coordinates": "31.4738073,104.6841904"
+        },
+        {
+          "index": 5,
+          "latitude": 31.4738073,
+          "longitude": 104.6841904,
+          "coordinates": "31.4738073,104.6841904"
+        },
+        {
+          "index": 6,
+          "latitude": 30.765906,
+          "longitude": 103.903881,
+          "coordinates": "30.765906,103.903881"
+        },
+        {
+          "index": 7,
+          "latitude": 30.765906,
+          "longitude": 103.903881,
+          "coordinates": "30.765906,103.903881"
+        },
+        {
+          "index": 8,
+          "latitude": 30.55177,
+          "longitude": 104.066898,
+          "coordinates": "30.55177,104.066898"
+        },
+        {
+          "index": 9,
+          "latitude": 30.61302,
+          "longitude": 104.07692,
+          "coordinates": "30.61302,104.07692"
+        }
+      ],
+      "names": [
+        "Chengdu Data Center",
+        "CTU4 Chengdu Data Center",
+        "Chengdu Data Center CD1",
+        "Chengdu Data Center CD2",
+        "GDS Ltd"
+      ],
+      "count": 9
+    },
+    "sichuan": {
+      "coordinates": [
+        {
+          "index": 1,
+          "latitude": 30.6508899,
+          "longitude": 104.07572,
+          "coordinates": "30.6508899,104.07572"
+        },
+        {
+          "index": 2,
+          "latitude": 31.142681,
+          "longitude": 104.417051,
+          "coordinates": "31.142681,104.417051"
+        },
+        {
+          "index": 3,
+          "latitude": 29.555374,
+          "longitude": 103.761329,
+          "coordinates": "29.555374,103.761329"
+        },
+        {
+          "index": 4,
+          "latitude": 32.433755,
+          "longitude": 105.845307,
+          "coordinates": "32.433755,105.845307"
+        }
+      ],
+      "names": [
+        "Sichuan",
+        "Deyang Zhujiang Road Data Center",
+        "Leshan Tianxing Road Data Center",
+        "Guangyuan IDC Data Center",
+        "China Telecom"
+      ],
+      "count": 4
+    }
+  }
+}
