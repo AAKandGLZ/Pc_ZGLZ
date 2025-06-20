@@ -1,131 +1,198 @@
-# 数据中心爬虫使用说明
+# 中国西南三省数据中心位置爬虫
 
-## 项目简介
+## 🎯 项目简介
 
-本项目用于爬取 datacenters.com 网站上四川省、云南省、贵州省的数据中心位置信息，包括坐标和名称。
+本项目用于爬取 [datacenters.com](https://www.datacenters.com) 网站上**四川省**、**云南省**、**贵州省**的数据中心位置信息，包括精确坐标、名称等详细信息。
 
-## 文件说明
+## 📊 爬取结果
 
-1. **datacenter_crawler.py** - 完整版爬虫，功能丰富
-2. **simple_datacenter_crawler.py** - 简化版爬虫，专门针对gmp-advanced-marker元素
-3. **requirements.txt** - Python依赖包列表
-4. **install.bat** - Windows安装脚本
-5. **README.md** - 本说明文件
+- **四川省**: 27个数据中心
+- **云南省**: 2个数据中心  
+- **贵州省**: 5个数据中心
+- **总计**: 34个数据中心
 
-## 安装步骤
+## 🚀 快速开始
 
-### 1. 安装Python依赖
+### 1. 环境要求
+
+- Python 3.7+
+- Google Chrome 浏览器
+- Windows/Linux/macOS
+
+### 2. 安装依赖
 
 ```bash
+# 克隆项目
+git clone https://github.com/YOUR_ORG/datacenter-crawler-southwest-china.git
+cd datacenter-crawler-southwest-china
+
+# 安装Python依赖
 pip install -r requirements.txt
 ```
 
-### 2. 安装Chrome浏览器
+### 3. 运行爬虫
 
-确保系统已安装Google Chrome浏览器
-
-### 3. 安装ChromeDriver
-
-#### 方法一：手动安装
-1. 访问 https://chromedriver.chromium.org/
-2. 下载与Chrome版本对应的ChromeDriver
-3. 将chromedriver.exe放入系统PATH中
-
-#### 方法二：自动管理
+**推荐使用最终版爬虫**（速度快，准确性高）：
 ```bash
-pip install webdriver-manager
+python final_datacenter_crawler.py
 ```
 
-### 4. 运行爬虫
-
+**或使用简化版Selenium爬虫**：
 ```bash
-# 运行简化版（推荐）
 python simple_datacenter_crawler.py
-
-# 或运行完整版
-python datacenter_crawler.py
 ```
 
-## 爬取目标
+### 4. 查看结果
 
-- **四川省**: https://www.datacenters.com/locations/china/sichuan-sheng
-- **云南省**: https://www.datacenters.com/locations/china/yunnan-sheng  
-- **贵州省**: https://www.datacenters.com/locations/china/guizhou-sheng
-
-## 输出文件
-
-爬取完成后会生成以下文件：
-
-- `datacenter_results.csv` - CSV格式的数据中心信息
-- `datacenter_results.json` - JSON格式的数据中心信息
-
-## 数据结构
-
-每个数据中心包含以下字段：
-
-```json
-{
-  "index": 1,
-  "latitude": 31.1978662,
-  "longitude": 107.5090321,
-  "name": "四川省数据中心",
-  "address": "China, Sichuan, Neijiang, Dongxing Qu, 西林大道",
-  "province": "四川省",
-  "source_url": "https://www.datacenters.com/locations/china/sichuan-sheng",
-  "position_raw": "31.1978662,107.5090321"
-}
-```
-
-## 注意事项
-
-1. 爬取过程中浏览器会自动打开，请不要手动关闭
-2. 网络连接需要稳定，爬取过程可能需要几分钟
-3. 如果遇到访问限制，可以调整爬取间隔时间
-4. 首次运行可能需要下载浏览器驱动
-
-## 故障排除
-
-### 问题1：selenium模块未找到
 ```bash
-pip install selenium
+# 查看爬取结果
+python view_results.py
+
+# 数据文件位置
+重新爬取完整三省数据中心坐标.json    # JSON格式
+重新爬取完整三省数据中心坐标.csv     # CSV格式
 ```
 
-### 问题2：ChromeDriver版本不匹配
-1. 查看Chrome版本：在地址栏输入 `chrome://version/`
-2. 下载对应版本的ChromeDriver
+## 📁 项目结构
 
-### 问题3：网页加载失败
-- 检查网络连接
-- 尝试更换网络环境
-- 增加页面加载等待时间
+```
+爬虫/
+├── 📄 README.md                                    # 项目说明文档
+├── 📄 requirements.txt                             # Python依赖包
+├── 📄 .gitignore                                   # Git忽略文件
+├── 
+├── 🔧 主要爬虫脚本/
+│   ├── final_datacenter_crawler.py                # ⭐ 最终版爬虫（推荐）
+│   ├── simple_datacenter_crawler.py               # 简化版Selenium爬虫
+│   ├── auto_datacenter_crawler.py                 # 自动化版本
+│   └── complete_datacenter_crawler.py             # 完整版爬虫
+├── 
+├── 🛠️ 辅助工具/
+│   ├── analyze_website.py                         # 网站结构分析
+│   ├── extract_coordinates.py                     # 坐标提取工具
+│   ├── view_results.py                            # 结果查看器
+│   └── test_environment.py                        # 环境测试工具
+├── 
+├── 📊 数据文件/
+│   ├── 重新爬取完整三省数据中心坐标.json           # 完整数据（JSON）
+│   ├── 重新爬取完整三省数据中心坐标.csv            # 完整数据（CSV）
+│   ├── 最终完整数据中心报告.txt                    # 详细统计报告
+│   └── 完整数据摘要.md                             # 数据摘要
+├── 
+├── 📝 文档报告/
+│   ├── 项目完成报告.md                             # 项目完成报告
+│   └── 详细检查结果汇总.json                       # 检查结果汇总
+└── 
+└── 🔧 批处理脚本/
+    ├── install.bat                                 # Windows安装脚本
+    └── run_crawler.bat                             # 快速启动脚本
+```
 
-### 问题4：找不到地图标记
-- 网站可能更新了HTML结构
-- 可以修改选择器策略
-- 尝试增加等待时间
+## 💻 使用方法
 
-## 技术原理
-
-1. 使用Selenium自动化浏览器访问目标网页
-2. 等待地图加载完成
-3. 查找所有`gmp-advanced-marker`元素
-4. 从`position`属性中提取坐标信息
-5. 通过点击标记获取名称和地址信息
-6. 将数据保存为CSV和JSON格式
-
-## 扩展功能
-
-如需增加其他省份，可在代码中修改`provinces_urls`字典：
+### 基础爬取
 
 ```python
-self.provinces_urls = {
-    "四川省": "https://www.datacenters.com/locations/china/sichuan-sheng",
-    "云南省": "https://www.datacenters.com/locations/china/yunnan-sheng", 
-    "贵州省": "https://www.datacenters.com/locations/china/guizhou-sheng",
-    "新省份": "https://www.datacenters.com/locations/china/new-province"
+from final_datacenter_crawler import DataCenterCrawler
+
+# 创建爬虫实例
+crawler = DataCenterCrawler()
+
+# 运行爬虫
+crawler.run()
+
+# 查看结果
+results = crawler.get_results()
+print(f"爬取到 {len(results)} 个数据中心")
+```
+
+### 分析网站结构
+
+```bash
+python analyze_website.py
+```
+
+### 测试环境
+
+```bash
+python test_environment.py
+```
+
+## 📈 数据格式
+
+### JSON格式
+```json
+{
+  "province": "四川省",
+  "latitude": 30.6508899,
+  "longitude": 104.07572,
+  "name": "CTU1 Sichuan Sheng Data Center",
+  "source": "四川省-sichuan-sheng",
+  "coordinates": "30.6508899,104.07572",
+  "index": 1
 }
 ```
 
-## 法律声明
+### CSV格式
+```csv
+province,latitude,longitude,name,source,coordinates,index
+四川省,30.6508899,104.07572,CTU1 Sichuan Sheng Data Center,四川省-sichuan-sheng,"30.6508899,104.07572",1
+```
 
-本工具仅用于学习和研究目的，请遵守网站的robots.txt协议和使用条款，不要过度频繁访问以免给服务器造成负担。
+## 🎯 核心特性
+
+- **多策略爬取**: 支持HTML解析和Selenium两种方式
+- **智能去重**: 自动识别和合并重复数据
+- **坐标验证**: 验证坐标格式和合理性
+- **多格式输出**: 支持JSON、CSV格式导出
+- **详细日志**: 完整的爬取过程记录
+- **错误处理**: 完善的异常处理机制
+
+## 🛠️ 技术栈
+
+- **Python 3.7+**
+- **Selenium**: 浏览器自动化
+- **Beautiful Soup**: HTML解析
+- **Pandas**: 数据处理
+- **Requests**: HTTP请求
+- **ChromeDriver**: Chrome浏览器驱动
+
+## 📋 依赖包
+
+```
+selenium>=4.0.0
+webdriver-manager>=4.0.0
+requests>=2.25.0
+pandas>=1.3.0
+beautifulsoup4>=4.9.0
+lxml>=4.6.0
+openpyxl>=3.0.0
+```
+
+## 🚨 注意事项
+
+1. **浏览器要求**: 需要安装Google Chrome浏览器
+2. **网络要求**: 需要能够访问 datacenters.com 网站
+3. **运行时间**: 完整爬取约需要3-5分钟
+4. **数据时效**: 数据来源于网站，可能存在时效性
+5. **使用规范**: 请遵守网站的robots.txt和使用条款
+
+## 🤝 贡献指南
+
+1. Fork 本项目
+2. 创建特性分支 (`git checkout -b feature/AmazingFeature`)
+3. 提交更改 (`git commit -m 'Add some AmazingFeature'`)
+4. 推送到分支 (`git push origin feature/AmazingFeature`)
+5. 开启 Pull Request
+
+## 📄 许可证
+
+本项目采用 MIT 许可证 - 查看 [LICENSE](LICENSE) 文件了解详情
+
+## 📞 联系方式
+
+如有问题或建议，请创建 Issue 或直接联系项目维护者。
+
+---
+
+**⚠️ 免责声明**: 本项目仅用于学习和研究目的，请遵守相关网站的使用条款和法律法规。
