@@ -23,8 +23,8 @@
 
 ```bash
 # 克隆项目
-git clone https://github.com/AAKandGLZ/datacenter-crawler-southwest-china.git
-cd datacenter-crawler-southwest-china
+git clone https://github.com/AAKandGLZ/Pc_ZGLZ.git
+cd Pc_ZGLZ
 
 # 安装Python依赖
 pip install -r requirements.txt
