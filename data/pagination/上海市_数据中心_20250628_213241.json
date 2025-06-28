@@ -1,0 +1,682 @@
+[
+  {
+    "name": "SH6 Shanghai Data Center",
+    "latitude": 31.31723,
+    "longitude": 121.623306,
+    "location": "上海市",
+    "address": "",
+    "description": "",
+    "source_page": 1,
+    "extraction_method": "JSON",
+    "raw_data": {
+      "name": "SH6 Shanghai Data Center",
+      "latitude": 31.31723,
+      "longitude": 121.623306,
+      "address": "",
+      "description": ""
+    }
+  },
+  {
+    "name": "SH5 Yangpu District Data Center",
+    "latitude": 31.2767859,
+    "longitude": 121.541634,
+    "location": "上海市",
+    "address": "",
+    "description": "",
+    "source_page": 1,
+    "extraction_method": "JSON",
+    "raw_data": {
+      "name": "SH5 Yangpu District Data Center",
+      "latitude": 31.2767859,
+      "longitude": 121.541634,
+      "address": "",
+      "description": ""
+    }
+  },
+  {
+    "name": "SH3 Pudong New Area Data Center",
+    "latitude": 31.246309,
+    "longitude": 121.620621,
+    "location": "上海市",
+    "address": "",
+    "description": "",
+    "source_page": 1,
+    "extraction_method": "JSON",
+    "raw_data": {
+      "name": "SH3 Pudong New Area Data Center",
+      "latitude": 31.246309,
+      "longitude": 121.620621,
+      "address": "",
+      "description": ""
+    }
+  },
+  {
+    "name": "China East-Shanghai",
+    "latitude": 31.230416,
+    "longitude": 121.473701,
+    "location": "上海市",
+    "address": "",
+    "description": "",
+    "source_page": 1,
+    "extraction_method": "JSON",
+    "raw_data": {
+      "name": "China East-Shanghai",
+      "latitude": 31.230416,
+      "longitude": 121.473701,
+      "address": "",
+      "description": ""
+    }
+  },
+  {
+    "name": "China East 2-Shanghai",
+    "latitude": 31.230416,
+    "longitude": 121.473701,
+    "location": "上海市",
+    "address": "",
+    "description": "",
+    "source_page": 1,
+    "extraction_method": "JSON",
+    "raw_data": {
+      "name": "China East 2-Shanghai",
+      "latitude": 31.230416,
+      "longitude": 121.473701,
+      "address": "",
+      "description": ""
+    }
+  },
+  {
+    "name": "Shanghai Data Center",
+    "latitude": 31.230416,
+    "longitude": 121.473701,
+    "location": "上海市",
+    "address": "",
+    "description": "",
+    "source_page": 1,
+    "extraction_method": "JSON",
+    "raw_data": {
+      "name": "Shanghai Data Center",
+      "latitude": 31.230416,
+      "longitude": 121.473701,
+      "address": "",
+      "description": ""
+    }
+  },
+  {
+    "name": "Shanghai Telecom Caoxi Data Center",
+    "latitude": 31.1837487,
+    "longitude": 121.4371364,
+    "location": "上海市",
+    "address": "",
+    "description": "",
+    "source_page": 1,
+    "extraction_method": "JSON",
+    "raw_data": {
+      "name": "Shanghai Telecom Caoxi Data Center",
+      "latitude": 31.1837487,
+      "longitude": 121.4371364,
+      "address": "",
+      "description": ""
+    }
+  },
+  {
+    "name": "GDS SH3, SH4 Data Center",
+    "latitude": 31.320884,
+    "longitude": 121.606972,
+    "location": "上海市",
+    "address": "",
+    "description": "",
+    "source_page": 1,
+    "extraction_method": "JSON",
+    "raw_data": {
+      "name": "GDS SH3, SH4 Data Center",
+      "latitude": 31.320884,
+      "longitude": 121.606972,
+      "address": "",
+      "description": ""
+    }
+  },
+  {
+    "name": "Information Park Data Center",
+    "latitude": 31.221517,
+    "longitude": 121.544379,
+    "location": "上海市",
+    "address": "",
+    "description": "",
+    "source_page": 1,
+    "extraction_method": "JSON",
+    "raw_data": {
+      "name": "Information Park Data Center",
+      "latitude": 31.221517,
+      "longitude": 121.544379,
+      "address": "",
+      "description": ""
+    }
+  },
+  {
+    "name": "SHA5 Shanghai Data Center",
+    "latitude": 31.276205,
+    "longitude": 121.541897,
+    "location": "上海市",
+    "address": "",
+    "description": "",
+    "source_page": 1,
+    "extraction_method": "JSON",
+    "raw_data": {
+      "name": "SHA5 Shanghai Data Center",
+      "latitude": 31.276205,
+      "longitude": 121.541897,
+      "address": "",
+      "description": ""
+    }
+  },
+  {
+    "name": "Shanghai Hulan IDC Data Center",
+    "latitude": 31.344898,
+    "longitude": 121.451176,
+    "location": "上海市",
+    "address": "",
+    "description": "",
+    "source_page": 1,
+    "extraction_method": "JSON",
+    "raw_data": {
+      "name": "Shanghai Hulan IDC Data Center",
+      "latitude": 31.344898,
+      "longitude": 121.451176,
+      "address": "",
+      "description": ""
+    }
+  },
+  {
+    "name": "Shanghai Hotline Information Building Data Center",
+    "latitude": 31.2341239,
+    "longitude": 121.509968,
+    "location": "上海市",
+    "address": "",
+    "description": "",
+    "source_page": 1,
+    "extraction_method": "JSON",
+    "raw_data": {
+      "name": "Shanghai Hotline Information Building Data Center",
+      "latitude": 31.2341239,
+      "longitude": 121.509968,
+      "address": "",
+      "description": ""
+    }
+  },
+  {
+    "name": "SH1 Pudong New Area Data Center",
+    "latitude": 31.214146,
+    "longitude": 121.637741,
+    "location": "上海市",
+    "address": "",
+    "description": "",
+    "source_page": 1,
+    "extraction_method": "JSON",
+    "raw_data": {
+      "name": "SH1 Pudong New Area Data Center",
+      "latitude": 31.214146,
+      "longitude": 121.637741,
+      "address": "",
+      "description": ""
+    }
+  },
+  {
+    "name": "Shanghai Jinqiao Data Center",
+    "latitude": 31.266133,
+    "longitude": 121.611248,
+    "location": "上海市",
+    "address": "",
+    "description": "",
+    "source_page": 1,
+    "extraction_method": "JSON",
+    "raw_data": {
+      "name": "Shanghai Jinqiao Data Center",
+      "latitude": 31.266133,
+      "longitude": 121.611248,
+      "address": "",
+      "description": ""
+    }
+  },
+  {
+    "name": "SH2 Data Center",
+    "latitude": 31.24631,
+    "longitude": 121.620243,
+    "location": "上海市",
+    "address": "",
+    "description": "",
+    "source_page": 1,
+    "extraction_method": "JSON",
+    "raw_data": {
+      "name": "SH2 Data Center",
+      "latitude": 31.24631,
+      "longitude": 121.620243,
+      "address": "",
+      "description": ""
+    }
+  },
+  {
+    "name": "SHA2 Shanghai Data Center",
+    "latitude": 31.3138344,
+    "longitude": 121.4411019,
+    "location": "上海市",
+    "address": "",
+    "description": "",
+    "source_page": 1,
+    "extraction_method": "JSON",
+    "raw_data": {
+      "name": "SHA2 Shanghai Data Center",
+      "latitude": 31.3138344,
+      "longitude": 121.4411019,
+      "address": "",
+      "description": ""
+    }
+  },
+  {
+    "name": "SHA3 Shanghai Data Center",
+    "latitude": 31.22841,
+    "longitude": 121.60208,
+    "location": "上海市",
+    "address": "",
+    "description": "",
+    "source_page": 1,
+    "extraction_method": "JSON",
+    "raw_data": {
+      "name": "SHA3 Shanghai Data Center",
+      "latitude": 31.22841,
+      "longitude": 121.60208,
+      "address": "",
+      "description": ""
+    }
+  },
+  {
+    "name": "Nanhui IDC Data Center",
+    "latitude": 31.0699605,
+    "longitude": 121.7495334,
+    "location": "上海市",
+    "address": "",
+    "description": "",
+    "source_page": 1,
+    "extraction_method": "JSON",
+    "raw_data": {
+      "name": "Nanhui IDC Data Center",
+      "latitude": 31.0699605,
+      "longitude": 121.7495334,
+      "address": "",
+      "description": ""
+    }
+  },
+  {
+    "name": "SH2 Pudong New Area Data Center",
+    "latitude": 31.246309,
+    "longitude": 121.620621,
+    "location": "上海市",
+    "address": "",
+    "description": "",
+    "source_page": 1,
+    "extraction_method": "JSON",
+    "raw_data": {
+      "name": "SH2 Pudong New Area Data Center",
+      "latitude": 31.246309,
+      "longitude": 121.620621,
+      "address": "",
+      "description": ""
+    }
+  },
+  {
+    "name": "Shanghai Telecom Guoli Data Center",
+    "latitude": 31.2273498,
+    "longitude": 121.4479303,
+    "location": "上海市",
+    "address": "",
+    "description": "",
+    "source_page": 1,
+    "extraction_method": "JSON",
+    "raw_data": {
+      "name": "Shanghai Telecom Guoli Data Center",
+      "latitude": 31.2273498,
+      "longitude": 121.4479303,
+      "address": "",
+      "description": ""
+    }
+  },
+  {
+    "name": "Shanghai East Gate IDC Data Center",
+    "latitude": 31.218747,
+    "longitude": 121.504401,
+    "location": "上海市",
+    "address": "",
+    "description": "",
+    "source_page": 1,
+    "extraction_method": "JSON",
+    "raw_data": {
+      "name": "Shanghai East Gate IDC Data Center",
+      "latitude": 31.218747,
+      "longitude": 121.504401,
+      "address": "",
+      "description": ""
+    }
+  },
+  {
+    "name": "Shanghai Changxin Caobao Road Data Center",
+    "latitude": 31.157136,
+    "longitude": 121.375543,
+    "location": "上海市",
+    "address": "",
+    "description": "",
+    "source_page": 1,
+    "extraction_method": "JSON",
+    "raw_data": {
+      "name": "Shanghai Changxin Caobao Road Data Center",
+      "latitude": 31.157136,
+      "longitude": 121.375543,
+      "address": "",
+      "description": ""
+    }
+  },
+  {
+    "name": "XIY2 Xi'an Data Center",
+    "latitude": 31.238498,
+    "longitude": 121.501923,
+    "location": "上海市",
+    "address": "",
+    "description": "",
+    "source_page": 1,
+    "extraction_method": "JSON",
+    "raw_data": {
+      "name": "XIY2 Xi'an Data Center",
+      "latitude": 31.238498,
+      "longitude": 121.501923,
+      "address": "",
+      "description": ""
+    }
+  },
+  {
+    "name": "Shanghai Xingshun Data Center",
+    "latitude": 31.375869,
+    "longitude": 121.265374,
+    "location": "上海市",
+    "address": "",
+    "description": "",
+    "source_page": 1,
+    "extraction_method": "JSON",
+    "raw_data": {
+      "name": "Shanghai Xingshun Data Center",
+      "latitude": 31.375869,
+      "longitude": 121.265374,
+      "address": "",
+      "description": ""
+    }
+  },
+  {
+    "name": "Shanghai Jiyun IDC Data Center",
+    "latitude": 31.3389251,
+    "longitude": 121.4370917,
+    "location": "上海市",
+    "address": "",
+    "description": "",
+    "source_page": 1,
+    "extraction_method": "JSON",
+    "raw_data": {
+      "name": "Shanghai Jiyun IDC Data Center",
+      "latitude": 31.3389251,
+      "longitude": 121.4370917,
+      "address": "",
+      "description": ""
+    }
+  },
+  {
+    "name": "Shanghai Jianan Data Center",
+    "latitude": 30.8556073,
+    "longitude": 121.0881835,
+    "location": "上海市",
+    "address": "",
+    "description": "",
+    "source_page": 1,
+    "extraction_method": "JSON",
+    "raw_data": {
+      "name": "Shanghai Jianan Data Center",
+      "latitude": 30.8556073,
+      "longitude": 121.0881835,
+      "address": "",
+      "description": ""
+    }
+  },
+  {
+    "name": "Shanghai Quanhua IDC Data Center",
+    "latitude": 31.2243427,
+    "longitude": 121.5317699,
+    "location": "上海市",
+    "address": "",
+    "description": "",
+    "source_page": 1,
+    "extraction_method": "JSON",
+    "raw_data": {
+      "name": "Shanghai Quanhua IDC Data Center",
+      "latitude": 31.2243427,
+      "longitude": 121.5317699,
+      "address": "",
+      "description": ""
+    }
+  },
+  {
+    "name": "SHA3 Shanghai Data Center",
+    "latitude": 31.3445366,
+    "longitude": 121.4505657,
+    "location": "上海市",
+    "address": "",
+    "description": "",
+    "source_page": 1,
+    "extraction_method": "JSON",
+    "raw_data": {
+      "name": "SHA3 Shanghai Data Center",
+      "latitude": 31.3445366,
+      "longitude": 121.4505657,
+      "address": "",
+      "description": ""
+    }
+  },
+  {
+    "name": "Shanghai Yunlian IDC Data Center",
+    "latitude": 31.1781316,
+    "longitude": 121.5141392,
+    "location": "上海市",
+    "address": "",
+    "description": "",
+    "source_page": 1,
+    "extraction_method": "JSON",
+    "raw_data": {
+      "name": "Shanghai Yunlian IDC Data Center",
+      "latitude": 31.1781316,
+      "longitude": 121.5141392,
+      "address": "",
+      "description": ""
+    }
+  },
+  {
+    "name": "Shanghai Shenjia Lane IDC Data Center",
+    "latitude": 31.221517,
+    "longitude": 121.544379,
+    "location": "上海市",
+    "address": "",
+    "description": "",
+    "source_page": 1,
+    "extraction_method": "JSON",
+    "raw_data": {
+      "name": "Shanghai Shenjia Lane IDC Data Center",
+      "latitude": 31.221517,
+      "longitude": 121.544379,
+      "address": "",
+      "description": ""
+    }
+  },
+  {
+    "name": "Shanghai Lujiazui IDC Data Center",
+    "latitude": 31.2355377,
+    "longitude": 121.5106818,
+    "location": "上海市",
+    "address": "",
+    "description": "",
+    "source_page": 1,
+    "extraction_method": "JSON",
+    "raw_data": {
+      "name": "Shanghai Lujiazui IDC Data Center",
+      "latitude": 31.2355377,
+      "longitude": 121.5106818,
+      "address": "",
+      "description": ""
+    }
+  },
+  {
+    "name": "Shanghai Beiai IDC Data Center",
+    "latitude": 31.1835211,
+    "longitude": 121.5365225,
+    "location": "上海市",
+    "address": "",
+    "description": "",
+    "source_page": 1,
+    "extraction_method": "JSON",
+    "raw_data": {
+      "name": "Shanghai Beiai IDC Data Center",
+      "latitude": 31.1835211,
+      "longitude": 121.5365225,
+      "address": "",
+      "description": ""
+    }
+  },
+  {
+    "name": "Shanghai New Taopu IDC Data Center",
+    "latitude": 31.221517,
+    "longitude": 121.544379,
+    "location": "上海市",
+    "address": "",
+    "description": "",
+    "source_page": 1,
+    "extraction_method": "JSON",
+    "raw_data": {
+      "name": "Shanghai New Taopu IDC Data Center",
+      "latitude": 31.221517,
+      "longitude": 121.544379,
+      "address": "",
+      "description": ""
+    }
+  },
+  {
+    "name": "Shanghai North IDC Data Center",
+    "latitude": 31.294949,
+    "longitude": 121.438011,
+    "location": "上海市",
+    "address": "",
+    "description": "",
+    "source_page": 1,
+    "extraction_method": "JSON",
+    "raw_data": {
+      "name": "Shanghai North IDC Data Center",
+      "latitude": 31.294949,
+      "longitude": 121.438011,
+      "address": "",
+      "description": ""
+    }
+  },
+  {
+    "name": "Shanghai Ouyang Data Center",
+    "latitude": 31.266551,
+    "longitude": 121.488522,
+    "location": "上海市",
+    "address": "",
+    "description": "",
+    "source_page": 1,
+    "extraction_method": "JSON",
+    "raw_data": {
+      "name": "Shanghai Ouyang Data Center",
+      "latitude": 31.266551,
+      "longitude": 121.488522,
+      "address": "",
+      "description": ""
+    }
+  },
+  {
+    "name": "Shanghai Waigaoqiao Data Center",
+    "latitude": 31.3364826,
+    "longitude": 121.6053767,
+    "location": "上海市",
+    "address": "",
+    "description": "",
+    "source_page": 1,
+    "extraction_method": "JSON",
+    "raw_data": {
+      "name": "Shanghai Waigaoqiao Data Center",
+      "latitude": 31.3364826,
+      "longitude": 121.6053767,
+      "address": "",
+      "description": ""
+    }
+  },
+  {
+    "name": "Shanghai Zhenru IDC Data Center",
+    "latitude": 31.24984,
+    "longitude": 121.395555,
+    "location": "上海市",
+    "address": "",
+    "description": "",
+    "source_page": 1,
+    "extraction_method": "JSON",
+    "raw_data": {
+      "name": "Shanghai Zhenru IDC Data Center",
+      "latitude": 31.24984,
+      "longitude": 121.395555,
+      "address": "",
+      "description": ""
+    }
+  },
+  {
+    "name": "Shanghai Guilin IDC Data Center",
+    "latitude": 31.165952,
+    "longitude": 121.406291,
+    "location": "上海市",
+    "address": "",
+    "description": "",
+    "source_page": 1,
+    "extraction_method": "JSON",
+    "raw_data": {
+      "name": "Shanghai Guilin IDC Data Center",
+      "latitude": 31.165952,
+      "longitude": 121.406291,
+      "address": "",
+      "description": ""
+    }
+  },
+  {
+    "name": "Shanghai Haining Data Center",
+    "latitude": 31.248951,
+    "longitude": 121.4830631,
+    "location": "上海市",
+    "address": "",
+    "description": "",
+    "source_page": 1,
+    "extraction_method": "JSON",
+    "raw_data": {
+      "name": "Shanghai Haining Data Center",
+      "latitude": 31.248951,
+      "longitude": 121.4830631,
+      "address": "",
+      "description": ""
+    }
+  },
+  {
+    "name": "Shanghai Zhangdong IDC Data Center",
+    "latitude": 31.2160139,
+    "longitude": 121.6326719,
+    "location": "上海市",
+    "address": "",
+    "description": "",
+    "source_page": 1,
+    "extraction_method": "JSON",
+    "raw_data": {
+      "name": "Shanghai Zhangdong IDC Data Center",
+      "latitude": 31.2160139,
+      "longitude": 121.6326719,
+      "address": "",
+      "description": ""
+    }
+  }
+]

@@ -1,0 +1,160 @@
+上海数据中心完整翻页分析报告
+============================================================
+
+分析时间: 2025-06-28 22:12:00
+目标数量: 54个数据中心
+实际获取: 35个数据中心
+达成率: 64.8%
+
+成功的翻页方法:
+------------------------------
+✅ URL参数翻页
+
+主页面分析结果:
+------------------------------
+翻页信息: {'total_pages': 0, 'current_page': 1, 'items_per_page': 0, 'total_items': 4, 'pagination_type': 'unknown'}
+数据容器: 0个
+AJAX端点: 1个
+
+获取的数据中心列表:
+------------------------------
+ 1. SH6 Shanghai Data Center
+    坐标: (31.230416, 121.473701)
+    来源: page_1
+
+ 2. SH5 Yangpu District Data Center
+    坐标: (31.317230, 121.623306)
+    来源: page_1
+
+ 3. SH3 Pudong New Area Data Center
+    坐标: (31.276786, 121.541634)
+    来源: page_1
+
+ 4. China East-Shanghai
+    坐标: (31.246309, 121.620621)
+    来源: page_1
+
+ 5. GDS SH3, SH4 Data Center
+    坐标: (31.183749, 121.437136)
+    来源: page_1
+
+ 6. Information Park Data Center
+    坐标: (31.320884, 121.606972)
+    来源: page_1
+
+ 7. SHA5 Shanghai Data Center
+    坐标: (31.221517, 121.544379)
+    来源: page_1
+
+ 8. Shanghai Hulan IDC Data Center
+    坐标: (31.276205, 121.541897)
+    来源: page_1
+
+ 9. Shanghai Hotline Information Building Data Center
+    坐标: (31.344898, 121.451176)
+    来源: page_1
+
+10. SH1 Pudong New Area Data Center
+    坐标: (31.234124, 121.509968)
+    来源: page_1
+
+11. Shanghai Jinqiao Data Center
+    坐标: (31.214146, 121.637741)
+    来源: page_1
+
+12. SH2 Data Center
+    坐标: (31.266133, 121.611248)
+    来源: page_1
+
+13. SHA2 Shanghai Data Center
+    坐标: (31.246310, 121.620243)
+    来源: page_1
+
+14. SHA3 Shanghai Data Center
+    坐标: (31.313834, 121.441102)
+    来源: page_1
+
+15. Nanhui IDC Data Center
+    坐标: (31.228410, 121.602080)
+    来源: page_1
+
+16. SH2 Pudong New Area Data Center
+    坐标: (31.069961, 121.749533)
+    来源: page_1
+
+17. Shanghai East Gate IDC Data Center
+    坐标: (31.227350, 121.447930)
+    来源: page_1
+
+18. Shanghai Changxin Caobao Road Data Center
+    坐标: (31.218747, 121.504401)
+    来源: page_1
+
+19. XIY2 Xi'an Data Center
+    坐标: (31.157136, 121.375543)
+    来源: page_1
+
+20. Shanghai Xingshun Data Center
+    坐标: (31.238498, 121.501923)
+    来源: page_1
+
+21. Shanghai Jiyun IDC Data Center
+    坐标: (31.375869, 121.265374)
+    来源: page_1
+
+22. Shanghai Jianan Data Center
+    坐标: (31.338925, 121.437092)
+    来源: page_1
+
+23. Shanghai Quanhua IDC Data Center
+    坐标: (30.855607, 121.088183)
+    来源: page_1
+
+24. SHA3 Shanghai Data Center
+    坐标: (31.224343, 121.531770)
+    来源: page_1
+
+25. Shanghai Yunlian IDC Data Center
+    坐标: (31.344537, 121.450566)
+    来源: page_1
+
+26. Shanghai Shenjia Lane IDC Data Center
+    坐标: (31.178132, 121.514139)
+    来源: page_1
+
+27. Shanghai Beiai IDC Data Center
+    坐标: (31.235538, 121.510682)
+    来源: page_1
+
+28. Shanghai New Taopu IDC Data Center
+    坐标: (31.183521, 121.536523)
+    来源: page_1
+
+29. Shanghai Ouyang Data Center
+    坐标: (31.294949, 121.438011)
+    来源: page_1
+
+30. Shanghai Waigaoqiao Data Center
+    坐标: (31.266551, 121.488522)
+    来源: page_1
+
+31. Shanghai Zhenru IDC Data Center
+    坐标: (31.336483, 121.605377)
+    来源: page_1
+
+32. Shanghai Guilin IDC Data Center
+    坐标: (31.249840, 121.395555)
+    来源: page_1
+
+33. Shanghai Haining Data Center
+    坐标: (31.165952, 121.406291)
+    来源: page_1
+
+34. Shanghai Zhangdong IDC Data Center
+    坐标: (31.248951, 121.483063)
+    来源: page_1
+
+35. China Telecom
+    坐标: (31.216014, 121.632672)
+    来源: page_1
+

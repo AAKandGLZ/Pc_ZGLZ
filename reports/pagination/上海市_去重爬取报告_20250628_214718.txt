@@ -1,0 +1,42 @@
+🏢 上海市 数据中心爬取报告 (含去重)
+==================================================
+
+⏰ 爬取时间: 2025-06-28 21:47:18
+📊 去重后数据量: 34 条
+📄 爬取页数: 1 页
+🔍 提取方法统计:
+   - JSON方法: 34 条
+   - 正则方法: 0 条
+
+🧹 去重处理: 已自动去除重复坐标和相似名称
+
+📁 输出文件:
+   - JSON文件: data/pagination/上海市_数据中心_去重_20250628_214718.json
+   - CSV文件: data/pagination/上海市_数据中心_去重_20250628_214718.csv
+
+📍 坐标范围:
+   - 纬度: 30.855607 ~ 31.375869
+   - 经度: 121.088183 ~ 121.749533
+
+📋 数据中心列表 (前20条):
+ 1. SH6 Shanghai Data Center (31.317230, 121.623306) [第1页]
+ 2. SH5 Yangpu District Data Center (31.276786, 121.541634) [第1页]
+ 3. SH3 Pudong New Area Data Center (31.246309, 121.620621) [第1页]
+ 4. China East-Shanghai (31.230416, 121.473701) [第1页]
+ 5. Shanghai Telecom Caoxi Data Center (31.183749, 121.437136) [第1页]
+ 6. GDS SH3, SH4 Data Center (31.320884, 121.606972) [第1页]
+ 7. Information Park Data Center (31.221517, 121.544379) [第1页]
+ 8. SHA5 Shanghai Data Center (31.276205, 121.541897) [第1页]
+ 9. Shanghai Hulan IDC Data Center (31.344898, 121.451176) [第1页]
+10. Shanghai Hotline Information Building Data Center (31.234124, 121.509968) [第1页]
+11. SH1 Pudong New Area Data Center (31.214146, 121.637741) [第1页]
+12. Shanghai Jinqiao Data Center (31.266133, 121.611248) [第1页]
+13. SH2 Data Center (31.246310, 121.620243) [第1页]
+14. SHA2 Shanghai Data Center (31.313834, 121.441102) [第1页]
+15. SHA3 Shanghai Data Center (31.228410, 121.602080) [第1页]
+16. Nanhui IDC Data Center (31.069961, 121.749533) [第1页]
+17. Shanghai Telecom Guoli Data Center (31.227350, 121.447930) [第1页]
+18. Shanghai East Gate IDC Data Center (31.218747, 121.504401) [第1页]
+19. Shanghai Changxin Caobao Road Data Center (31.157136, 121.375543) [第1页]
+20. XIY2 Xi'an Data Center (31.238498, 121.501923) [第1页]
+... 还有 14 条数据

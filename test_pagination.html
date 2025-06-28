@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>翻页测试页面</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; }
+        .pagination { margin: 20px 0; }
+        .pagination a { 
+            display: inline-block; 
+            padding: 8px 16px; 
+            margin: 0 4px; 
+            border: 1px solid #ddd; 
+            text-decoration: none; 
+            color: #333;
+            cursor: pointer;
+        }
+        .pagination a.active { 
+            background-color: #4CAF50; 
+            color: white; 
+            border: 1px solid #4CAF50; 
+        }
+        .pagination a:hover { background-color: #ddd; }
+        .content { 
+            border: 1px solid #ccc; 
+            padding: 20px; 
+            margin: 20px 0; 
+            min-height: 200px; 
+        }
+        .datacenter-item {
+            border: 1px solid #eee;
+            padding: 10px;
+            margin: 5px 0;
+            background-color: #f9f9f9;
+        }
+    </style>
+</head>
+<body>
+    <h1>上海数据中心测试页面</h1>
+    <p>当前页面：<span id="current-page">1</span></p>
+    
+    <div class="pagination">
+        <a href="#" onclick="goToPage(1)" id="page-1" class="active">1</a>
+        <a href="#" onclick="goToPage(2)" id="page-2">2</a>
+        <a href="#" onclick="goToPage(3)" id="page-3">3</a>
+    </div>
+    
+    <div class="content" id="content">
+        <!-- 第一页内容 -->
+        <div class="datacenter-item" data-lat="31.230416" data-lng="121.473701">
+            <h3>SH1 浦东数据中心</h3>
+            <p>坐标: 31.230416, 121.473701</p>
+        </div>
+        <div class="datacenter-item" data-lat="31.317230" data-lng="121.623306">
+            <h3>SH2 杨浦数据中心</h3>
+            <p>坐标: 31.317230, 121.623306</p>
+        </div>
+        <div class="datacenter-item" data-lat="31.224361" data-lng="121.469170">
+            <h3>SH3 徐汇数据中心</h3>
+            <p>坐标: 31.224361, 121.469170</p>
+        </div>
+    </div>
+    
+    <script>
+        // 模拟不同页面的数据
+        const pageData = {
+            1: [
+                { name: "SH1 浦东数据中心", lat: 31.230416, lng: 121.473701 },
+                { name: "SH2 杨浦数据中心", lat: 31.317230, lng: 121.623306 },
+                { name: "SH3 徐汇数据中心", lat: 31.224361, lng: 121.469170 }
+            ],
+            2: [
+                { name: "SH4 虹口数据中心", lat: 31.285940, lng: 121.504640 },
+                { name: "SH5 静安数据中心", lat: 31.228611, lng: 121.448056 },
+                { name: "SH6 长宁数据中心", lat: 31.220000, lng: 121.425000 }
+            ],
+            3: [
+                { name: "SH7 普陀数据中心", lat: 31.249162, lng: 121.395573 },
+                { name: "SH8 闸北数据中心", lat: 31.253700, lng: 121.463300 }
+            ]
+        };
+        
+        // 存储到window对象中，模拟JavaScript变量
+        window.datacenters = pageData[1];
+        window.currentPage = 1;
+        
+        function goToPage(pageNum) {
+            console.log("正在跳转到第 " + pageNum + " 页");
+            
+            // 更新当前页面显示
+            document.getElementById('current-page').textContent = pageNum;
+            
+            // 更新分页按钮状态
+            for (let i = 1; i <= 3; i++) {
+                const btn = document.getElementById('page-' + i);
+                if (i === pageNum) {
+                    btn.classList.add('active');
+                } else {
+                    btn.classList.remove('active');
+                }
+            }
+            
+            // 更新内容区域
+            const content = document.getElementById('content');
+            const data = pageData[pageNum] || [];
+            
+            content.innerHTML = '';
+            data.forEach(item => {
+                const div = document.createElement('div');
+                div.className = 'datacenter-item';
+                div.setAttribute('data-lat', item.lat);
+                div.setAttribute('data-lng', item.lng);
+                div.innerHTML = `
+                    <h3>${item.name}</h3>
+                    <p>坐标: ${item.lat}, ${item.lng}</p>
+                `;
+                content.appendChild(div);
+            });
+            
+            // 更新window.datacenters变量
+            window.datacenters = data;
+            window.currentPage = pageNum;
+            
+            console.log("页面已切换到第 " + pageNum + " 页，包含 " + data.length + " 个数据中心");
+        }
+    </script>
+</body>
+</html>
