@@ -1,198 +1,185 @@
-# 中国西南三省数据中心位置爬虫
+# 🌟 广东省数据中心爬虫项目
 
-## 🎯 项目简介
+## 📋 项目概述
+本项目是一个专门用于爬取广东省数据中心分布信息的Python工具。项目已从原来的三省（四川、云南、贵州）数据中心爬虫重构为专门针对广东省的数据中心信息采集和分析工具。
 
-本项目用于爬取 [datacenters.com](https://www.datacenters.com) 网站上**四川省**、**云南省**、**贵州省**的数据中心位置信息，包括精确坐标、名称等详细信息。
+## 🎯 主要功能
+- 🔍 **智能多源爬取**：使用多种URL变体提高数据覆盖率
+- 🗺️ **地理验证**：仅保留广东省地理范围内的有效坐标
+- 🔄 **自动去重**：基于坐标精度智能去除重复数据
+- 📊 **详细报告**：生成CSV、JSON格式数据和详细分析报告
+- 🛠️ **容错处理**：完善的异常处理和错误恢复机制
 
-## 📊 爬取结果
-
-- **四川省**: 27个数据中心
-- **云南省**: 2个数据中心  
-- **贵州省**: 5个数据中心
-- **总计**: 34个数据中心
+## 📁 项目结构
+```
+Pc_ZGLZ/
+├── 📂 src/                          # 源代码目录
+│   ├── guangdong_datacenter_crawler.py  # 广东省数据中心爬虫
+│   └── [其他历史爬虫脚本...]            # 其他省份爬虫（已归档）
+├── 📊 data/                         # 数据文件目录
+│   ├── guangdong/                   # 广东省数据
+│   │   ├── 广东省数据中心坐标_[时间戳].csv
+│   │   └── 广东省数据中心坐标_[时间戳].json
+│   └── archive/                     # 旧数据归档
+├── 🌐 html_sources/                 # HTML源码目录
+│   ├── guangdong/                   # 广东省HTML源码（调试用）
+│   └── archive/                     # 旧HTML归档
+├── 📋 reports/                      # 报告文件目录
+│   ├── guangdong/                   # 广东省分析报告
+│   └── archive/                     # 旧报告归档
+├── 🔧 scripts/                      # 脚本工具目录
+│   ├── organize_project.py          # 项目整理工具
+│   ├── run_guangdong_crawler.bat    # 批处理运行脚本
+│   └── requirements.txt             # 依赖包配置
+├── 📚 docs/                         # 项目文档
+└── 💾 backup/                       # 备份文件
+```
 
 ## 🚀 快速开始
 
-### 1. 环境要求
-
-- Python 3.7+
-- Google Chrome 浏览器
-- Windows/Linux/macOS
-
-### 2. 安装依赖
-
+### 1. 环境准备
 ```bash
-# 克隆项目
-git clone https://github.com/AAKandGLZ/Pc_ZGLZ.git
-cd Pc_ZGLZ
-
+# 克隆或下载项目
 # 安装Python依赖
-pip install -r requirements.txt
+pip install -r scripts/requirements.txt
 ```
 
-### 3. 运行爬虫
-
-**推荐使用最终版爬虫**（速度快，准确性高）：
+### 2. 运行爬虫
+#### 方式一：直接运行Python脚本
 ```bash
-python final_datacenter_crawler.py
+python src/guangdong_datacenter_crawler.py
 ```
 
-**或使用简化版Selenium爬虫**：
+#### 方式二：使用批处理脚本（Windows）
 ```bash
-python simple_datacenter_crawler.py
+# 双击运行或在命令行执行
+scripts/run_guangdong_crawler.bat
 ```
 
-### 4. 查看结果
+### 3. 查看结果
+- **数据文件**：`data/guangdong/` 目录下的CSV和JSON文件
+- **分析报告**：`reports/guangdong/` 目录下的详细报告
+- **调试信息**：`html_sources/guangdong/` 目录下的HTML源码
 
+## 📊 输出数据说明
+
+### 数据文件格式
+**CSV/JSON文件包含以下字段：**
+- `province`: 省份（广东省）
+- `city`: 城市/地区
+- `latitude`: 纬度坐标
+- `longitude`: 经度坐标
+- `name`: 数据中心名称
+- `source`: 数据来源
+- `coordinates`: 坐标字符串（纬度,经度）
+- `index`: 数据索引
+- `crawl_time`: 爬取时间
+
+### 分析报告内容
+- 爬取统计信息
+- 城市分布统计
+- 详细数据中心列表
+- 地理分布分析
+- 技术说明
+
+## 🎯 爬取目标
+
+### 覆盖区域
+- **省级**：广东省整体
+- **主要城市**：深圳、广州、东莞、佛山、珠海、中山、惠州等
+
+### URL策略
+项目使用多种URL变体确保数据完整性：
+```
+- guangdong-sheng (主要数据源)
+- guangdong
+- guang-dong-sheng
+- 各主要城市的独立URL
+```
+
+## ⚙️ 技术特点
+
+### 1. 智能数据提取
+- 使用正则表达式提取坐标和名称
+- 多种匹配模式确保数据完整性
+- 智能坐标配对算法
+
+### 2. 数据验证
+- 地理范围验证（广东省：纬度20-25.5°，经度109-117.5°）
+- 坐标有效性检查
+- 重复数据自动去除
+
+### 3. 容错机制
+- 网络超时重试
+- 异常处理和日志记录
+- 优雅降级策略
+
+## 📦 依赖包
+```
+requests>=2.28.0      # HTTP请求
+pandas>=1.5.0         # 数据处理
+numpy>=1.21.0         # 数值计算
+beautifulsoup4>=4.11.0 # HTML解析（可选）
+```
+
+## 🛠️ 项目工具
+
+### 项目整理工具
 ```bash
-# 查看爬取结果
-python view_results.py
-
-# 数据文件位置
-重新爬取完整三省数据中心坐标.json    # JSON格式
-重新爬取完整三省数据中心坐标.csv     # CSV格式
+python scripts/organize_project.py
 ```
+功能：
+- 自动整理文件到对应目录
+- 备份原始文件
+- 生成项目结构报告
 
-## 📁 项目结构
+### 批处理脚本
+- `run_guangdong_crawler.bat`：交互式运行脚本
+- 提供菜单选择功能
 
-```
-爬虫/
-├── 📄 README.md                                    # 项目说明文档
-├── 📄 requirements.txt                             # Python依赖包
-├── 📄 .gitignore                                   # Git忽略文件
-├── 
-├── 🔧 主要爬虫脚本/
-│   ├── final_datacenter_crawler.py                # ⭐ 最终版爬虫（推荐）
-│   ├── simple_datacenter_crawler.py               # 简化版Selenium爬虫
-│   ├── auto_datacenter_crawler.py                 # 自动化版本
-│   └── complete_datacenter_crawler.py             # 完整版爬虫
-├── 
-├── 🛠️ 辅助工具/
-│   ├── analyze_website.py                         # 网站结构分析
-│   ├── extract_coordinates.py                     # 坐标提取工具
-│   ├── view_results.py                            # 结果查看器
-│   └── test_environment.py                        # 环境测试工具
-├── 
-├── 📊 数据文件/
-│   ├── 重新爬取完整三省数据中心坐标.json           # 完整数据（JSON）
-│   ├── 重新爬取完整三省数据中心坐标.csv            # 完整数据（CSV）
-│   ├── 最终完整数据中心报告.txt                    # 详细统计报告
-│   └── 完整数据摘要.md                             # 数据摘要
-├── 
-├── 📝 文档报告/
-│   ├── 项目完成报告.md                             # 项目完成报告
-│   └── 详细检查结果汇总.json                       # 检查结果汇总
-└── 
-└── 🔧 批处理脚本/
-    ├── install.bat                                 # Windows安装脚本
-    └── run_crawler.bat                             # 快速启动脚本
-```
+## 📈 最新成果
 
-## 💻 使用方法
+### 2025-06-20 运行结果
+- ✅ **成功获取**：39个广东省数据中心
+- 🎯 **覆盖范围**：包含深圳、广州、佛山、东莞、珠海、中山、惠州等主要城市
+- 📍 **地理分布**：纬度21.24°-24.80°，经度110.41°-116.12°
+- 🏢 **主要数据中心**：
+  - Shenzhen Data Center
+  - Guangzhou Cloud-computing Data Center
+  - Foshan Shunde IDC Data Center
+  - GDS SZ4 Data Center
+  - 等39个专业数据中心
 
-### 基础爬取
+## 🔄 项目历史
 
-```python
-from final_datacenter_crawler import DataCenterCrawler
+### 版本演进
+- **v1.0**：三省数据中心爬虫（四川、云南、贵州）
+- **v2.0**：重构为广东省专用爬虫（当前版本）
 
-# 创建爬虫实例
-crawler = DataCenterCrawler()
+### 改进内容
+- 专注广东省数据，提高准确性
+- 优化目录结构，便于维护
+- 增强数据验证和去重功能
+- 完善文档和使用说明
 
-# 运行爬虫
-crawler.run()
+## ⚠️ 注意事项
 
-# 查看结果
-results = crawler.get_results()
-print(f"爬取到 {len(results)} 个数据中心")
-```
+1. **网络要求**：需要稳定的网络连接访问目标网站
+2. **使用频率**：建议适度使用，避免对目标网站造成过大压力
+3. **数据时效性**：爬取的数据可能存在时效性，建议定期更新
+4. **合规使用**：请遵守robots.txt和相关法律法规
 
-### 分析网站结构
+## 📞 技术支持
 
-```bash
-python analyze_website.py
-```
-
-### 测试环境
-
-```bash
-python test_environment.py
-```
-
-## 📈 数据格式
-
-### JSON格式
-```json
-{
-  "province": "四川省",
-  "latitude": 30.6508899,
-  "longitude": 104.07572,
-  "name": "CTU1 Sichuan Sheng Data Center",
-  "source": "四川省-sichuan-sheng",
-  "coordinates": "30.6508899,104.07572",
-  "index": 1
-}
-```
-
-### CSV格式
-```csv
-province,latitude,longitude,name,source,coordinates,index
-四川省,30.6508899,104.07572,CTU1 Sichuan Sheng Data Center,四川省-sichuan-sheng,"30.6508899,104.07572",1
-```
-
-## 🎯 核心特性
-
-- **多策略爬取**: 支持HTML解析和Selenium两种方式
-- **智能去重**: 自动识别和合并重复数据
-- **坐标验证**: 验证坐标格式和合理性
-- **多格式输出**: 支持JSON、CSV格式导出
-- **详细日志**: 完整的爬取过程记录
-- **错误处理**: 完善的异常处理机制
-
-## 🛠️ 技术栈
-
-- **Python 3.7+**
-- **Selenium**: 浏览器自动化
-- **Beautiful Soup**: HTML解析
-- **Pandas**: 数据处理
-- **Requests**: HTTP请求
-- **ChromeDriver**: Chrome浏览器驱动
-
-## 📋 依赖包
-
-```
-selenium>=4.0.0
-webdriver-manager>=4.0.0
-requests>=2.25.0
-pandas>=1.3.0
-beautifulsoup4>=4.9.0
-lxml>=4.6.0
-openpyxl>=3.0.0
-```
-
-## 🚨 注意事项
-
-1. **浏览器要求**: 需要安装Google Chrome浏览器
-2. **网络要求**: 需要能够访问 datacenters.com 网站
-3. **运行时间**: 完整爬取约需要3-5分钟
-4. **数据时效**: 数据来源于网站，可能存在时效性
-5. **使用规范**: 请遵守网站的robots.txt和使用条款
-
-## 🤝 贡献指南
-
-1. Fork 本项目
-2. 创建特性分支 (`git checkout -b feature/AmazingFeature`)
-3. 提交更改 (`git commit -m 'Add some AmazingFeature'`)
-4. 推送到分支 (`git push origin feature/AmazingFeature`)
-5. 开启 Pull Request
+如遇到问题，请：
+1. 查看 `reports/` 目录下的详细日志
+2. 检查网络连接和目标网站可访问性
+3. 查看 `html_sources/` 目录下的源码进行调试
 
 ## 📄 许可证
-
-本项目采用 MIT 许可证 - 查看 [LICENSE](LICENSE) 文件了解详情
-
-## 📞 联系方式
-
-如有问题或建议，请创建 Issue 或直接联系项目维护者。
+本项目仅供学习和研究使用。使用时请遵守相关法律法规和网站使用条款。
 
 ---
-
-**⚠️ 免责声明**: 本项目仅用于学习和研究目的，请遵守相关网站的使用条款和法律法规。
+**更新时间**：2025-06-20  
+**项目状态**：✅ 活跃开发  
+**当前版本**：v2.0 - 广东省专版

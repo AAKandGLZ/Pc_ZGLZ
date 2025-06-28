@@ -1,0 +1,314 @@
+上海市数据中心分布分析报告（高级版）
+============================================================
+
+爬取时间: 2025-06-20 17:06:13
+爬取策略: 多URL + 分页 + API + 并发爬取
+总数据中心数量: 48
+预期目标: 80+ 个数据中心
+⚠️  目标达成度: 60.0%（未达到预期）
+
+数据源分布:
+------------------------------
+https://www.datacenters.com/locations/china/shanghai/shanghai: 31 个
+https://www.datacenters.com/locations/china/shanghai: 17 个
+
+区域分布统计:
+------------------------------
+黄浦区: 4 个 (8.3%)
+浦东新区: 20 个 (41.7%)
+杨浦区: 6 个 (12.5%)
+徐汇区: 3 个 (6.2%)
+宝山区: 3 个 (6.2%)
+普陀区: 3 个 (6.2%)
+奉贤区: 1 个 (2.1%)
+嘉定区: 2 个 (4.2%)
+静安区: 1 个 (2.1%)
+崇明区: 1 个 (2.1%)
+闵行区: 1 个 (2.1%)
+虹口区: 2 个 (4.2%)
+松江区: 1 个 (2.1%)
+
+详细列表:
+------------------------------
+
+黄浦区 (4 个):
+   1. SH6 Shanghai Data Center
+      坐标: (31.230416, 121.473701)
+      来源: https://www.datacenters.com/locations/china/shanghai/shanghai
+      时间: 2025-06-20 17:01:25
+
+   2. Changshu Road IDC Data Center
+      坐标: (31.218747, 121.504401)
+      来源: https://www.datacenters.com/locations/china/shanghai/shanghai
+      时间: 2025-06-20 17:01:25
+
+   3. Shanghai New Taopu IDC Data Center
+      坐标: (31.178132, 121.514139)
+      来源: https://www.datacenters.com/locations/china/shanghai
+      时间: 2025-06-20 17:01:56
+
+   4. Top 6 Providers with Data Centers
+      坐标: (31.248951, 121.483063)
+      来源: https://www.datacenters.com/locations/china/shanghai
+      时间: 2025-06-20 17:01:56
+
+
+浦东新区 (20 个):
+   1. SH5 Yangpu District Data Center
+      坐标: (31.317230, 121.623306)
+      来源: https://www.datacenters.com/locations/china/shanghai/shanghai
+      时间: 2025-06-20 17:01:25
+
+   2. Shanghai Data Center
+      坐标: (31.246309, 121.620621)
+      来源: https://www.datacenters.com/locations/china/shanghai/shanghai
+      时间: 2025-06-20 17:01:25
+
+   3. SHA5 Shanghai Data Center
+      坐标: (31.320884, 121.606972)
+      来源: https://www.datacenters.com/locations/china/shanghai/shanghai
+      时间: 2025-06-20 17:01:25
+
+   4. Shanghai Hulan IDC Data Center
+      坐标: (31.221517, 121.544379)
+      来源: https://www.datacenters.com/locations/china/shanghai/shanghai
+      时间: 2025-06-20 17:01:25
+
+   5. Shanghai Jinqiao Data Center
+      坐标: (31.214146, 121.637741)
+      来源: https://www.datacenters.com/locations/china/shanghai/shanghai
+      时间: 2025-06-20 17:01:25
+
+   6. SHA2 Shanghai Data Center
+      坐标: (31.246310, 121.620243)
+      来源: https://www.datacenters.com/locations/china/shanghai/shanghai
+      时间: 2025-06-20 17:01:25
+
+   7. Shanghai Data Center (SH4)
+      坐标: (31.266133, 121.611248)
+      来源: https://www.datacenters.com/locations/china/shanghai/shanghai
+      时间: 2025-06-20 17:01:25
+
+   8. Kunshan Data Center (KS2)
+      坐标: (31.321610, 121.609360)
+      来源: https://www.datacenters.com/locations/china/shanghai/shanghai
+      时间: 2025-06-20 17:01:25
+
+   9. Shanghai Data Center (SH8)
+      坐标: (31.228410, 121.602080)
+      来源: https://www.datacenters.com/locations/china/shanghai/shanghai
+      时间: 2025-06-20 17:01:25
+
+  10. Shanghai Zhangjiang Data Center
+      坐标: (31.309698, 121.619022)
+      来源: https://www.datacenters.com/locations/china/shanghai/shanghai
+      时间: 2025-06-20 17:01:25
+
+  11. Shanghai Data Center (SH13)
+      坐标: (31.212740, 121.637960)
+      来源: https://www.datacenters.com/locations/china/shanghai/shanghai
+      时间: 2025-06-20 17:01:25
+
+  12. Nanhui IDC Data Center
+      坐标: (31.308910, 121.622600)
+      来源: https://www.datacenters.com/locations/china/shanghai/shanghai
+      时间: 2025-06-20 17:01:25
+
+  13. SH2 Pudong New Area Data Center
+      坐标: (31.069961, 121.749533)
+      来源: https://www.datacenters.com/locations/china/shanghai/shanghai
+      时间: 2025-06-20 17:01:25
+
+  14. Shanghai Data Center (SH11)
+      坐标: (31.342740, 121.595660)
+      来源: https://www.datacenters.com/locations/china/shanghai/shanghai
+      时间: 2025-06-20 17:01:25
+
+  15. Shanghai Data Center (SH17)
+      坐标: (31.303566, 121.629680)
+      来源: https://www.datacenters.com/locations/china/shanghai/shanghai
+      时间: 2025-06-20 17:01:25
+
+  16. Shanghai Data Center (SH7)
+      坐标: (31.236450, 121.651150)
+      来源: https://www.datacenters.com/locations/china/shanghai/shanghai
+      时间: 2025-06-20 17:01:25
+
+  17. Wuxi International IDC Data Center
+      坐标: (31.236890, 121.653100)
+      来源: https://www.datacenters.com/locations/china/shanghai/shanghai
+      时间: 2025-06-20 17:01:25
+
+  18. Shanghai Waigaoqiao Data Center
+      坐标: (31.183521, 121.536523)
+      来源: https://www.datacenters.com/locations/china/shanghai
+      时间: 2025-06-20 17:01:56
+
+  19. Shanghai Zhangdong IDC Data Center
+      坐标: (31.336483, 121.605377)
+      来源: https://www.datacenters.com/locations/china/shanghai
+      时间: 2025-06-20 17:01:56
+
+  20. Shanghai Data Centers - Providers Map in Shanghai, China
+      坐标: (31.216014, 121.632672)
+      来源: https://www.datacenters.com/locations/china/shanghai
+      时间: 2025-06-20 17:01:56
+
+
+杨浦区 (6 个):
+   1. SH3 Pudong New Area Data Center
+      坐标: (31.276786, 121.541634)
+      来源: https://www.datacenters.com/locations/china/shanghai/shanghai
+      时间: 2025-06-20 17:01:25
+
+   2. Information Park Data Center
+      坐标: (31.240308, 121.507389)
+      来源: https://www.datacenters.com/locations/china/shanghai/shanghai
+      时间: 2025-06-20 17:01:25
+
+   3. Shanghai Hotline Information Building Data Center
+      坐标: (31.276205, 121.541897)
+      来源: https://www.datacenters.com/locations/china/shanghai/shanghai
+      时间: 2025-06-20 17:01:25
+
+   4. SH2 Data Center
+      坐标: (31.234124, 121.509968)
+      来源: https://www.datacenters.com/locations/china/shanghai/shanghai
+      时间: 2025-06-20 17:01:25
+
+   5. Shanghai Lujiazui IDC Data Center
+      坐标: (31.224343, 121.531770)
+      来源: https://www.datacenters.com/locations/china/shanghai
+      时间: 2025-06-20 17:01:56
+
+   6. Shanghai Ouyang Data Center
+      坐标: (31.235538, 121.510682)
+      来源: https://www.datacenters.com/locations/china/shanghai
+      时间: 2025-06-20 17:01:56
+
+
+徐汇区 (3 个):
+   1. Suzhou Chang'an Road Data Center
+      坐标: (31.183749, 121.437136)
+      来源: https://www.datacenters.com/locations/china/shanghai/shanghai
+      时间: 2025-06-20 17:01:25
+
+   2. Shanghai Telecom Guoli Data Center
+      坐标: (31.106500, 121.504280)
+      来源: https://www.datacenters.com/locations/china/shanghai/shanghai
+      时间: 2025-06-20 17:01:25
+
+   3. Top 2 Cities with Data Centers
+      坐标: (31.165952, 121.406291)
+      来源: https://www.datacenters.com/locations/china/shanghai
+      时间: 2025-06-20 17:01:56
+
+
+宝山区 (3 个):
+   1. SH1 Pudong New Area Data Center
+      坐标: (31.344898, 121.451176)
+      来源: https://www.datacenters.com/locations/china/shanghai/shanghai
+      时间: 2025-06-20 17:01:25
+
+   2. Shanghai Yunlian IDC Data Center
+      坐标: (31.338925, 121.437092)
+      来源: https://www.datacenters.com/locations/china/shanghai
+      时间: 2025-06-20 17:01:56
+
+   3. Shanghai Beiai IDC Data Center
+      坐标: (31.344537, 121.450566)
+      来源: https://www.datacenters.com/locations/china/shanghai
+      时间: 2025-06-20 17:01:56
+
+
+普陀区 (3 个):
+   1. Kunshan Data Center (KS3)
+      坐标: (31.313834, 121.441102)
+      来源: https://www.datacenters.com/locations/china/shanghai/shanghai
+      时间: 2025-06-20 17:01:25
+
+   2. Shanghai Guilin IDC Data Center
+      坐标: (31.294949, 121.438011)
+      来源: https://www.datacenters.com/locations/china/shanghai
+      时间: 2025-06-20 17:01:56
+
+   3. About Shanghai, China Data Centers Market
+      坐标: (31.249840, 121.395555)
+      来源: https://www.datacenters.com/locations/china/shanghai
+      时间: 2025-06-20 17:01:56
+
+
+奉贤区 (1 个):
+   1. SHA3 Shanghai Data Center
+      坐标: (31.020310, 121.452400)
+      来源: https://www.datacenters.com/locations/china/shanghai/shanghai
+      时间: 2025-06-20 17:01:25
+
+
+嘉定区 (2 个):
+   1. Shanghai Data Center (SH19)
+      坐标: (31.341850, 121.310130)
+      来源: https://www.datacenters.com/locations/china/shanghai/shanghai
+      时间: 2025-06-20 17:01:25
+
+   2. Shanghai Quanhua IDC Data Center
+      坐标: (31.375869, 121.265374)
+      来源: https://www.datacenters.com/locations/china/shanghai
+      时间: 2025-06-20 17:01:56
+
+
+静安区 (1 个):
+   1. Shanghai Data Center (SH18)
+      坐标: (31.227350, 121.447930)
+      来源: https://www.datacenters.com/locations/china/shanghai/shanghai
+      时间: 2025-06-20 17:01:25
+
+
+崇明区 (1 个):
+   1. Shanghai Data Center (SH5)
+      坐标: (31.738270, 120.962940)
+      来源: https://www.datacenters.com/locations/china/shanghai/shanghai
+      时间: 2025-06-20 17:01:25
+
+
+闵行区 (1 个):
+   1. Shanghai Jiyun IDC Data Center
+      坐标: (31.157136, 121.375543)
+      来源: https://www.datacenters.com/locations/china/shanghai
+      时间: 2025-06-20 17:01:56
+
+
+虹口区 (2 个):
+   1. Shanghai Jianan Data Center
+      坐标: (31.238498, 121.501923)
+      来源: https://www.datacenters.com/locations/china/shanghai
+      时间: 2025-06-20 17:01:56
+
+   2. Shanghai Haining Data Center
+      坐标: (31.266551, 121.488522)
+      来源: https://www.datacenters.com/locations/china/shanghai
+      时间: 2025-06-20 17:01:56
+
+
+松江区 (1 个):
+   1. Shanghai Shenjia Lane IDC Data Center
+      坐标: (30.855607, 121.088183)
+      来源: https://www.datacenters.com/locations/china/shanghai
+      时间: 2025-06-20 17:01:56
+
+地理分布分析:
+------------------------------
+纬度范围: 30.855607 ~ 31.738270
+经度范围: 120.962940 ~ 121.749533
+中心点: (31.251410, 121.507959)
+
+高级爬取技术:
+------------------------------
+1. 多URL策略: 主站 + 各区 + API端点
+2. 智能分页: 自动检测并爬取所有分页
+3. 并发爬取: 多线程提高效率
+4. 高级正则: 多种坐标和名称提取模式
+5. 精确过滤: 严格的上海市行政区域验证
+6. 智能去重: 基于坐标精度去重
+7. 容错处理: 网络重试和异常恢复
+8. 动态UA: 模拟真实浏览器行为

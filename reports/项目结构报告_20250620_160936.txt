@@ -1,0 +1,130 @@
+项目结构整理报告
+==================================================
+
+整理时间: 2025-06-20 16:09:45
+项目根目录: G:\我的资料\大学\课程and作业\空间统计与分析\结课论文\Pc_ZGLZ
+
+目录结构:
+------------------------------
+src/  (16 个文件)
+  - analyze_website.py
+  - auto_datacenter_crawler.py
+  - check_sichuan_variants.py
+  - complete_datacenter_crawler.py
+  - comprehensive_search.py
+  - datacenter_crawler.py
+  - deep_analysis.py
+  - detailed_url_check.py
+  - extract_coordinates.py
+  - final_datacenter_crawler.py
+  - guangdong_datacenter_crawler.py
+  - recrawl_complete.py
+  - simple_datacenter_crawler.py
+  - test_environment.py
+  - ultimate_datacenter_crawler.py
+  - view_results.py
+
+data/  (7 个文件)
+  - extracted_coordinates.json
+  - si-chuan-sheng_result.json
+  - sichuan_result.json
+  - 完整三省数据中心坐标.json
+  - 详细检查结果汇总.json
+  - 重新爬取完整三省数据中心坐标.csv
+  - 重新爬取完整三省数据中心坐标.json
+
+data/guangdong/  (0 个文件)
+
+data/archive/  (0 个文件)
+
+html_sources/  (27 个文件)
+  - china_page.html
+  - guizhou_page.html
+  - page_source.html
+  - si-chuan-sheng_detailed.html
+  - sichuan-sheng_page.html
+  - sichuan_detailed.html
+  - sichuan_page.html
+  - si_chuan_sheng_page.html
+  - yunnan-sheng_page.html
+  - 云南省_full_page.html
+  - 云南省_source.html
+  - 云南省_yunnan_sheng_source.html
+  - 云南省_yunnan_source.html
+  - 云南省_全称_source.html
+  - 云南省_简称_source.html
+  - 四川省_full_page.html
+  - 四川省_sichuan_sheng_source.html
+  - 四川省_sichuan_source.html
+  - 四川省_si_chuan_sheng_source.html
+  - 四川省_source.html
+  - 四川省_全称_source.html
+  - 四川省_简称_source.html
+  - 贵州省_full_page.html
+  - 贵州省_guizhou_sheng_source.html
+  - 贵州省_guizhou_source.html
+  - 贵州省_全称_source.html
+  - 贵州省_简称_source.html
+
+html_sources/guangdong/  (0 个文件)
+
+html_sources/archive/  (0 个文件)
+
+reports/  (8 个文件)
+  - DEPLOYMENT.md
+  - README.md
+  - 完整数据中心报告.txt
+  - 数据中心统计报告.txt
+  - 最终完整数据中心报告.txt
+  - 重新爬取数据中心报告.txt
+  - 项目完成报告.md
+  - 项目结构报告_20250620_160936.txt
+
+reports/guangdong/  (0 个文件)
+
+reports/archive/  (0 个文件)
+
+scripts/  (6 个文件)
+  - git_publish_commands.txt
+  - install.bat
+  - organize_project.py
+  - requirements.txt
+  - run_crawler.bat
+  - run_guangdong_crawler.bat
+
+docs/  (3 个文件)
+  - PROJECT_CHECKLIST.md
+  - PUBLISH.md
+  - READY_TO_PUBLISH.md
+
+backup/  (0 个文件)
+
+文件分类规则:
+------------------------------
+python_scripts: Python脚本文件
+  目标目录: src
+  扩展名: .py
+
+data_files: 数据文件
+  目标目录: data
+  扩展名: .json, .csv
+
+html_files: HTML源码文件
+  目标目录: html_sources
+  扩展名: .html
+
+reports: 报告和文档文件
+  目标目录: reports
+  扩展名: .txt, .md
+  文件名模式: 报告, 统计, 分析, 检查, README, DEPLOYMENT
+
+config_files: 配置和运行脚本
+  目标目录: scripts
+  扩展名: .bat, .txt
+  文件名模式: requirements, install, run_, git_, commands
+
+docs: 项目文档
+  目标目录: docs
+  扩展名: .md
+  文件名模式: README, LICENSE, CHECKLIST, PUBLISH
+

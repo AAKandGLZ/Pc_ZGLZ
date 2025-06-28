@@ -1,0 +1,68 @@
+{
+  "url": "https://www.datacenters.com/locations/china/si-chuan-sheng",
+  "url_name": "si-chuan-sheng",
+  "total_coordinates": 9,
+  "coordinates": [
+    {
+      "index": 1,
+      "latitude": 30.6508899,
+      "longitude": 104.07572,
+      "coordinates": "30.6508899,104.07572"
+    },
+    {
+      "index": 2,
+      "latitude": 30.765906,
+      "longitude": 103.903881,
+      "coordinates": "30.765906,103.903881"
+    },
+    {
+      "index": 3,
+      "latitude": 30.647958,
+      "longitude": 103.8181561,
+      "coordinates": "30.647958,103.8181561"
+    },
+    {
+      "index": 4,
+      "latitude": 31.4738073,
+      "longitude": 104.6841904,
+      "coordinates": "31.4738073,104.6841904"
+    },
+    {
+      "index": 5,
+      "latitude": 31.4738073,
+      "longitude": 104.6841904,
+      "coordinates": "31.4738073,104.6841904"
+    },
+    {
+      "index": 6,
+      "latitude": 30.765906,
+      "longitude": 103.903881,
+      "coordinates": "30.765906,103.903881"
+    },
+    {
+      "index": 7,
+      "latitude": 30.765906,
+      "longitude": 103.903881,
+      "coordinates": "30.765906,103.903881"
+    },
+    {
+      "index": 8,
+      "latitude": 30.55177,
+      "longitude": 104.066898,
+      "coordinates": "30.55177,104.066898"
+    },
+    {
+      "index": 9,
+      "latitude": 30.61302,
+      "longitude": 104.07692,
+      "coordinates": "30.61302,104.07692"
+    }
+  ],
+  "names": [
+    "Chengdu Data Center",
+    "CTU4 Chengdu Data Center",
+    "Chengdu Data Center CD1",
+    "Chengdu Data Center CD2",
+    "GDS Ltd"
+  ]
+}

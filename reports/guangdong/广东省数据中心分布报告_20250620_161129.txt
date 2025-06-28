@@ -1,0 +1,226 @@
+广东省数据中心分布分析报告
+============================================================
+
+爬取时间: 2025-06-20 16:11:29
+总数据中心数量: 39
+
+数据源统计:
+------------------------------
+广东省-guangdong-sheng: 39 个数据中心
+
+城市分布统计:
+--------------------
+广东省: 39 个数据中心
+
+详细列表:
+--------------------
+
+广东省 (39 个):
+   1. Shenzhen Data Center
+      坐标: (24.803777, 113.926227)
+      来源: 广东省-guangdong-sheng
+      爬取时间: 2025-06-20 16:10:08
+
+   2. Shenzhen Information Hub Data Center
+      坐标: (21.240597, 113.533343)
+      来源: 广东省-guangdong-sheng
+      爬取时间: 2025-06-20 16:10:08
+
+   3. Guangzhou Data Center
+      坐标: (22.592634, 113.443060)
+      来源: 广东省-guangdong-sheng
+      爬取时间: 2025-06-20 16:10:08
+
+   4. Guangzhou Cloud-computing Data Center
+      坐标: (23.193611, 113.751799)
+      来源: 广东省-guangdong-sheng
+      爬取时间: 2025-06-20 16:10:08
+
+   5. Guangzhou Huadiwan IDC Data Center
+      坐标: (23.697898, 113.194836)
+      来源: 广东省-guangdong-sheng
+      爬取时间: 2025-06-20 16:10:08
+
+   6. Shenzhen Fuyong IDC Data Center
+      坐标: (23.209910, 113.121435)
+      来源: 广东省-guangdong-sheng
+      爬取时间: 2025-06-20 16:10:08
+
+   7. Foshan Shunde IDC Data Center
+      坐标: (22.921936, 113.939711)
+      来源: 广东省-guangdong-sheng
+      爬取时间: 2025-06-20 16:10:08
+
+   8. Shenzhen Runxun Qianhai Data Center
+      坐标: (22.380319, 113.234635)
+      来源: 广东省-guangdong-sheng
+      爬取时间: 2025-06-20 16:10:08
+
+   9. Foshan Kepler Data Center
+      坐标: (22.282733, 113.797247)
+      来源: 广东省-guangdong-sheng
+      爬取时间: 2025-06-20 16:10:08
+
+  10. GDS SZ4 Data Center
+      坐标: (23.157017, 113.293359)
+      来源: 广东省-guangdong-sheng
+      爬取时间: 2025-06-20 16:10:08
+
+  11. Guangdong Nanshayungu Data Center
+      坐标: (23.131710, 113.884019)
+      来源: 广东省-guangdong-sheng
+      爬取时间: 2025-06-20 16:10:08
+
+  12. Jiangmen Data Center
+      坐标: (22.535210, 113.056240)
+      来源: 广东省-guangdong-sheng
+      爬取时间: 2025-06-20 16:10:08
+
+  13. CAN1 Guandong Sheng Data Center
+      坐标: (23.072867, 113.564863)
+      来源: 广东省-guangdong-sheng
+      爬取时间: 2025-06-20 16:10:08
+
+  14. Dongguan Dalang IDC Data Center
+      坐标: (22.721764, 113.533652)
+      来源: 广东省-guangdong-sheng
+      爬取时间: 2025-06-20 16:10:08
+
+  15. Guangdong Zhuhai IDC Data Center
+      坐标: (22.517585, 113.341834)
+      来源: 广东省-guangdong-sheng
+      爬取时间: 2025-06-20 16:10:08
+
+  16. Zhuhai Xiangzhou IDC Data Center
+      坐标: (23.036232, 113.898348)
+      来源: 广东省-guangdong-sheng
+      爬取时间: 2025-06-20 16:10:08
+
+  17. Qingyuan Data Integration Data Center
+      坐标: (22.544026, 113.459753)
+      来源: 广东省-guangdong-sheng
+      爬取时间: 2025-06-20 16:10:08
+
+  18. Guangdong Keyun Data Center
+      坐标: (23.106401, 114.515209)
+      来源: 广东省-guangdong-sheng
+      爬取时间: 2025-06-20 16:10:08
+
+  19. Guangzhou Tianhe Aircraft Building IDC Data Center
+      坐标: (24.310490, 113.588386)
+      来源: 广东省-guangdong-sheng
+      爬取时间: 2025-06-20 16:10:08
+
+  20. Shenzhen Gaoke Building IDC Data Center
+      坐标: (23.021478, 113.392770)
+      来源: 广东省-guangdong-sheng
+      爬取时间: 2025-06-20 16:10:08
+
+  21. Changzhou West IDC Data Center
+      坐标: (22.533458, 113.459749)
+      来源: 广东省-guangdong-sheng
+      爬取时间: 2025-06-20 16:10:08
+
+  22. Guangdong Telecom Building IDC Data Center
+      坐标: (22.930684, 113.516670)
+      来源: 广东省-guangdong-sheng
+      爬取时间: 2025-06-20 16:10:08
+
+  23. Guangzhou Data Center (GZ1)
+      坐标: (23.020673, 114.121384)
+      来源: 广东省-guangdong-sheng
+      爬取时间: 2025-06-20 16:10:08
+
+  24. Guangzhou Data Center (GZ4)
+      坐标: (21.615289, 110.407196)
+      来源: 广东省-guangdong-sheng
+      爬取时间: 2025-06-20 16:10:08
+
+  25. Guangdong Huizhou Longhu Data Center
+      坐标: (22.541752, 110.919929)
+      来源: 广东省-guangdong-sheng
+      爬取时间: 2025-06-20 16:10:08
+
+  26. Yunfu IDC Data Center
+      坐标: (22.687805, 112.033166)
+      来源: 广东省-guangdong-sheng
+      爬取时间: 2025-06-20 16:10:08
+
+  27. CAN8 Guangzhou Data Center
+      坐标: (22.805240, 113.078404)
+      来源: 广东省-guangdong-sheng
+      爬取时间: 2025-06-20 16:10:08
+
+  28. Zhanjiang Tunxi Data Center
+      坐标: (22.555259, 113.368990)
+      来源: 广东省-guangdong-sheng
+      爬取时间: 2025-06-20 16:10:08
+
+  29. Shaoguan Xinhua North IDC Data Center
+      坐标: (22.703545, 113.542683)
+      来源: 广东省-guangdong-sheng
+      爬取时间: 2025-06-20 16:10:08
+
+  30. Meizhou Telecom Hub Building Data Center
+      坐标: (23.081192, 113.919264)
+      来源: 广东省-guangdong-sheng
+      爬取时间: 2025-06-20 16:10:08
+
+  31. Foshan Century Interconnect IDC Data Center
+      坐标: (23.038191, 113.062692)
+      来源: 广东省-guangdong-sheng
+      爬取时间: 2025-06-20 16:10:08
+
+  32. Guangzhou Data Center (GZ2)
+      坐标: (22.722112, 113.539318)
+      来源: 广东省-guangdong-sheng
+      爬取时间: 2025-06-20 16:10:08
+
+  33. Zhongshan Huoju Cloud Data Center
+      坐标: (23.141734, 113.284110)
+      来源: 广东省-guangdong-sheng
+      爬取时间: 2025-06-20 16:10:08
+
+  34. Dongguan City IDC Data Center
+      坐标: (22.507026, 113.266270)
+      来源: 广东省-guangdong-sheng
+      爬取时间: 2025-06-20 16:10:08
+
+  35. Guangzhou Accelerator Data Center
+      坐标: (23.124472, 114.055398)
+      来源: 广东省-guangdong-sheng
+      爬取时间: 2025-06-20 16:10:08
+
+  36. Shenzhen Luohu East Gate IDC Data Center
+      坐标: (23.149880, 113.500233)
+      来源: 广东省-guangdong-sheng
+      爬取时间: 2025-06-20 16:10:08
+
+  37. FUO1 Guangdong Sheng Data Center
+      坐标: (23.144540, 114.246649)
+      来源: 广东省-guangdong-sheng
+      爬取时间: 2025-06-20 16:10:08
+
+  38. Maoming Mountain IDC Data Center
+      坐标: (23.148920, 116.116695)
+      来源: 广东省-guangdong-sheng
+      爬取时间: 2025-06-20 16:10:08
+
+  39. BDx Data Centers
+      坐标: (23.169040, 113.282945)
+      来源: 广东省-guangdong-sheng
+      爬取时间: 2025-06-20 16:10:08
+
+地理分布分析:
+--------------------
+纬度范围: 21.240597 ~ 24.803777
+经度范围: 110.407196 ~ 116.116695
+中心点: (22.899974, 113.440833)
+
+技术说明:
+--------------------
+1. 爬取范围：广东省及其主要城市
+2. 坐标验证：仅保留广东省地理范围内的坐标
+3. 去重策略：基于坐标精度到小数点后6位
+4. 数据来源：datacenters.com网站
+5. 爬取策略：多URL变体，包含省级和市级查询

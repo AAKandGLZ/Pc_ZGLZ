@@ -1,0 +1,37 @@
+{
+  "url": "https://www.datacenters.com/locations/china/sichuan",
+  "url_name": "sichuan",
+  "total_coordinates": 4,
+  "coordinates": [
+    {
+      "index": 1,
+      "latitude": 30.6508899,
+      "longitude": 104.07572,
+      "coordinates": "30.6508899,104.07572"
+    },
+    {
+      "index": 2,
+      "latitude": 31.142681,
+      "longitude": 104.417051,
+      "coordinates": "31.142681,104.417051"
+    },
+    {
+      "index": 3,
+      "latitude": 29.555374,
+      "longitude": 103.761329,
+      "coordinates": "29.555374,103.761329"
+    },
+    {
+      "index": 4,
+      "latitude": 32.433755,
+      "longitude": 105.845307,
+      "coordinates": "32.433755,105.845307"
+    }
+  ],
+  "names": [
+    "Sichuan",
+    "Deyang Zhujiang Road Data Center",
+    "Leshan Tianxing Road Data Center",
+    "Guangyuan IDC Data Center"
+  ]
+}

@@ -1,0 +1,25 @@
+# Git 命令行发布脚本
+
+# 1. 初始化Git仓库（在项目目录运行）
+cd "e:\空间统计分析\爬虫"
+git init
+
+# 2. 添加所有文件
+git add .
+
+# 3. 第一次提交
+git commit -m "初始提交：中国西南三省数据中心爬虫项目
+
+- 支持四川省、云南省、贵州省数据中心位置爬取
+- 包含34个数据中心的完整坐标信息
+- 提供多种爬虫实现方案
+- 完整的文档和使用说明"
+
+# 4. 设置远程仓库
+git remote add origin https://github.com/AAKandGLZ/datacenter-crawler-southwest-china.git
+
+# 5. 设置主分支
+git branch -M main
+
+# 6. 推送到远程仓库
+git push -u origin main

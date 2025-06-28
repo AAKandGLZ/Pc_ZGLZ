@@ -1,0 +1,49 @@
+﻿province,district,latitude,longitude,name,source,coordinates,index,crawl_time
+上海市,黄浦区,31.230416,121.473701,SH6 Shanghai Data Center,https://www.datacenters.com/locations/china/shanghai/shanghai,"31.230416,121.473701",1,2025-06-20 17:01:25
+上海市,浦东新区,31.31723,121.623306,SH5 Yangpu District Data Center,https://www.datacenters.com/locations/china/shanghai/shanghai,"31.31723,121.623306",2,2025-06-20 17:01:25
+上海市,杨浦区,31.2767859,121.541634,SH3 Pudong New Area Data Center,https://www.datacenters.com/locations/china/shanghai/shanghai,"31.2767859,121.541634",3,2025-06-20 17:01:25
+上海市,浦东新区,31.246309,121.620621,Shanghai Data Center,https://www.datacenters.com/locations/china/shanghai/shanghai,"31.246309,121.620621",4,2025-06-20 17:01:25
+上海市,杨浦区,31.240308,121.507389,Information Park Data Center,https://www.datacenters.com/locations/china/shanghai/shanghai,"31.240308,121.507389",5,2025-06-20 17:01:25
+上海市,徐汇区,31.1837487,121.4371364,Suzhou Chang'an Road Data Center,https://www.datacenters.com/locations/china/shanghai/shanghai,"31.1837487,121.4371364",6,2025-06-20 17:01:25
+上海市,浦东新区,31.320884,121.606972,SHA5 Shanghai Data Center,https://www.datacenters.com/locations/china/shanghai/shanghai,"31.320884,121.606972",7,2025-06-20 17:01:25
+上海市,浦东新区,31.221517,121.544379,Shanghai Hulan IDC Data Center,https://www.datacenters.com/locations/china/shanghai/shanghai,"31.221517,121.544379",8,2025-06-20 17:01:25
+上海市,杨浦区,31.276205,121.541897,Shanghai Hotline Information Building Data Center,https://www.datacenters.com/locations/china/shanghai/shanghai,"31.276205,121.541897",9,2025-06-20 17:01:25
+上海市,宝山区,31.344898,121.451176,SH1 Pudong New Area Data Center,https://www.datacenters.com/locations/china/shanghai/shanghai,"31.344898,121.451176",10,2025-06-20 17:01:25
+上海市,杨浦区,31.2341239,121.509968,SH2 Data Center,https://www.datacenters.com/locations/china/shanghai/shanghai,"31.2341239,121.509968",11,2025-06-20 17:01:25
+上海市,浦东新区,31.214146,121.637741,Shanghai Jinqiao Data Center,https://www.datacenters.com/locations/china/shanghai/shanghai,"31.214146,121.637741",12,2025-06-20 17:01:25
+上海市,浦东新区,31.24631,121.620243,SHA2 Shanghai Data Center,https://www.datacenters.com/locations/china/shanghai/shanghai,"31.24631,121.620243",13,2025-06-20 17:01:25
+上海市,浦东新区,31.266133,121.611248,Shanghai Data Center (SH4),https://www.datacenters.com/locations/china/shanghai/shanghai,"31.266133,121.611248",14,2025-06-20 17:01:25
+上海市,普陀区,31.3138344,121.4411019,Kunshan Data Center (KS3),https://www.datacenters.com/locations/china/shanghai/shanghai,"31.3138344,121.4411019",15,2025-06-20 17:01:25
+上海市,奉贤区,31.02031,121.4524,SHA3 Shanghai Data Center,https://www.datacenters.com/locations/china/shanghai/shanghai,"31.02031,121.4524",16,2025-06-20 17:01:25
+上海市,浦东新区,31.32161,121.60936,Kunshan Data Center (KS2),https://www.datacenters.com/locations/china/shanghai/shanghai,"31.32161,121.60936",17,2025-06-20 17:01:25
+上海市,浦东新区,31.22841,121.60208,Shanghai Data Center (SH8),https://www.datacenters.com/locations/china/shanghai/shanghai,"31.22841,121.60208",18,2025-06-20 17:01:25
+上海市,浦东新区,31.309698,121.619022,Shanghai Zhangjiang Data Center,https://www.datacenters.com/locations/china/shanghai/shanghai,"31.309698,121.619022",19,2025-06-20 17:01:25
+上海市,浦东新区,31.21274,121.63796,Shanghai Data Center (SH13),https://www.datacenters.com/locations/china/shanghai/shanghai,"31.21274,121.63796",20,2025-06-20 17:01:25
+上海市,嘉定区,31.34185,121.31013,Shanghai Data Center (SH19),https://www.datacenters.com/locations/china/shanghai/shanghai,"31.34185,121.31013",21,2025-06-20 17:01:25
+上海市,浦东新区,31.30891,121.6226,Nanhui IDC Data Center,https://www.datacenters.com/locations/china/shanghai/shanghai,"31.30891,121.6226",22,2025-06-20 17:01:25
+上海市,浦东新区,31.0699605,121.7495334,SH2 Pudong New Area Data Center,https://www.datacenters.com/locations/china/shanghai/shanghai,"31.0699605,121.7495334",23,2025-06-20 17:01:25
+上海市,浦东新区,31.34274,121.59566,Shanghai Data Center (SH11),https://www.datacenters.com/locations/china/shanghai/shanghai,"31.34274,121.59566",24,2025-06-20 17:01:25
+上海市,浦东新区,31.3035665,121.62968,Shanghai Data Center (SH17),https://www.datacenters.com/locations/china/shanghai/shanghai,"31.3035665,121.62968",25,2025-06-20 17:01:25
+上海市,徐汇区,31.1065,121.50428,Shanghai Telecom Guoli Data Center,https://www.datacenters.com/locations/china/shanghai/shanghai,"31.1065,121.50428",26,2025-06-20 17:01:25
+上海市,静安区,31.2273498,121.4479303,Shanghai Data Center (SH18),https://www.datacenters.com/locations/china/shanghai/shanghai,"31.2273498,121.4479303",27,2025-06-20 17:01:25
+上海市,黄浦区,31.218747,121.504401,Changshu Road IDC Data Center,https://www.datacenters.com/locations/china/shanghai/shanghai,"31.218747,121.504401",28,2025-06-20 17:01:25
+上海市,浦东新区,31.23645,121.65115,Shanghai Data Center (SH7),https://www.datacenters.com/locations/china/shanghai/shanghai,"31.23645,121.65115",29,2025-06-20 17:01:25
+上海市,崇明区,31.73827,120.96294,Shanghai Data Center (SH5),https://www.datacenters.com/locations/china/shanghai/shanghai,"31.73827,120.96294",30,2025-06-20 17:01:25
+上海市,浦东新区,31.23689,121.6531,Wuxi International IDC Data Center,https://www.datacenters.com/locations/china/shanghai/shanghai,"31.23689,121.6531",31,2025-06-20 17:01:25
+上海市,闵行区,31.157136,121.375543,Shanghai Jiyun IDC Data Center,https://www.datacenters.com/locations/china/shanghai,"31.157136,121.375543",1,2025-06-20 17:01:56
+上海市,虹口区,31.238498,121.501923,Shanghai Jianan Data Center,https://www.datacenters.com/locations/china/shanghai,"31.238498,121.501923",2,2025-06-20 17:01:56
+上海市,嘉定区,31.375869,121.265374,Shanghai Quanhua IDC Data Center,https://www.datacenters.com/locations/china/shanghai,"31.375869,121.265374",3,2025-06-20 17:01:56
+上海市,宝山区,31.3389251,121.4370917,Shanghai Yunlian IDC Data Center,https://www.datacenters.com/locations/china/shanghai,"31.3389251,121.4370917",4,2025-06-20 17:01:56
+上海市,松江区,30.8556073,121.0881835,Shanghai Shenjia Lane IDC Data Center,https://www.datacenters.com/locations/china/shanghai,"30.8556073,121.0881835",5,2025-06-20 17:01:56
+上海市,杨浦区,31.2243427,121.5317699,Shanghai Lujiazui IDC Data Center,https://www.datacenters.com/locations/china/shanghai,"31.2243427,121.5317699",6,2025-06-20 17:01:56
+上海市,宝山区,31.3445366,121.4505657,Shanghai Beiai IDC Data Center,https://www.datacenters.com/locations/china/shanghai,"31.3445366,121.4505657",7,2025-06-20 17:01:56
+上海市,黄浦区,31.1781316,121.5141392,Shanghai New Taopu IDC Data Center,https://www.datacenters.com/locations/china/shanghai,"31.1781316,121.5141392",8,2025-06-20 17:01:56
+上海市,杨浦区,31.2355377,121.5106818,Shanghai Ouyang Data Center,https://www.datacenters.com/locations/china/shanghai,"31.2355377,121.5106818",9,2025-06-20 17:01:56
+上海市,浦东新区,31.1835211,121.5365225,Shanghai Waigaoqiao Data Center,https://www.datacenters.com/locations/china/shanghai,"31.1835211,121.5365225",10,2025-06-20 17:01:56
+上海市,普陀区,31.294949,121.438011,Shanghai Guilin IDC Data Center,https://www.datacenters.com/locations/china/shanghai,"31.294949,121.438011",11,2025-06-20 17:01:56
+上海市,虹口区,31.266551,121.488522,Shanghai Haining Data Center,https://www.datacenters.com/locations/china/shanghai,"31.266551,121.488522",12,2025-06-20 17:01:56
+上海市,浦东新区,31.3364826,121.6053767,Shanghai Zhangdong IDC Data Center,https://www.datacenters.com/locations/china/shanghai,"31.3364826,121.6053767",13,2025-06-20 17:01:56
+上海市,普陀区,31.24984,121.395555,"About Shanghai, China Data Centers Market",https://www.datacenters.com/locations/china/shanghai,"31.24984,121.395555",14,2025-06-20 17:01:56
+上海市,徐汇区,31.165952,121.406291,Top 2 Cities with Data Centers,https://www.datacenters.com/locations/china/shanghai,"31.165952,121.406291",15,2025-06-20 17:01:56
+上海市,黄浦区,31.248951,121.4830631,Top 6 Providers with Data Centers,https://www.datacenters.com/locations/china/shanghai,"31.248951,121.4830631",16,2025-06-20 17:01:56
+上海市,浦东新区,31.2160139,121.6326719,"Shanghai Data Centers - Providers Map in Shanghai, China",https://www.datacenters.com/locations/china/shanghai,"31.2160139,121.6326719",17,2025-06-20 17:01:56

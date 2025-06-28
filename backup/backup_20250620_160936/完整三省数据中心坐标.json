@@ -1,0 +1,234 @@
+[
+  {
+    "province": "四川省",
+    "latitude": 30.6508899,
+    "longitude": 104.07572,
+    "name": "CTU1 Sichuan Sheng Data Center",
+    "source": "四川省-全称",
+    "coordinates": "30.6508899,104.07572"
+  },
+  {
+    "province": "四川省",
+    "latitude": 30.572141,
+    "longitude": 104.0656266,
+    "name": "Chengdu Taisheng IDC Data Center",
+    "source": "四川省-全称",
+    "coordinates": "30.572141,104.0656266"
+  },
+  {
+    "province": "四川省",
+    "latitude": 30.6635912,
+    "longitude": 104.0770158,
+    "name": "Yibin IDC Data Center",
+    "source": "四川省-全称",
+    "coordinates": "30.6635912,104.0770158"
+  },
+  {
+    "province": "四川省",
+    "latitude": 28.7591192,
+    "longitude": 104.6384874,
+    "name": "Chengdu Shahebao IDC Data Center",
+    "source": "四川省-全称",
+    "coordinates": "28.7591192,104.6384874"
+  },
+  {
+    "province": "四川省",
+    "latitude": 30.622647,
+    "longitude": 104.124024,
+    "name": "Chengdu 6 Data Center",
+    "source": "四川省-全称",
+    "coordinates": "30.622647,104.124024"
+  },
+  {
+    "province": "四川省",
+    "latitude": 30.6494713,
+    "longitude": 103.8175958,
+    "name": "Tianfu Hotline 2 Hub Data Center",
+    "source": "四川省-全称",
+    "coordinates": "30.6494713,103.8175958"
+  },
+  {
+    "province": "四川省",
+    "latitude": 30.6700466,
+    "longitude": 103.9993156,
+    "name": "Chengdu Lotus IDC Data Center",
+    "source": "四川省-全称",
+    "coordinates": "30.6700466,103.9993156"
+  },
+  {
+    "province": "四川省",
+    "latitude": 30.635812,
+    "longitude": 104.0954743,
+    "name": "Ziyang Data Center",
+    "source": "四川省-全称",
+    "coordinates": "30.635812,104.0954743"
+  },
+  {
+    "province": "四川省",
+    "latitude": 30.1340999,
+    "longitude": 104.6357034,
+    "name": "Chengdu Xixin IDC Data Center",
+    "source": "四川省-全称",
+    "coordinates": "30.1340999,104.6357034"
+  },
+  {
+    "province": "四川省",
+    "latitude": 30.5528717,
+    "longitude": 104.0568206,
+    "name": "Neijiang IDC Data Center",
+    "source": "四川省-全称",
+    "coordinates": "30.5528717,104.0568206"
+  },
+  {
+    "province": "四川省",
+    "latitude": 29.6085134,
+    "longitude": 105.0672464,
+    "name": "Mianyang China Telecom Data Center",
+    "source": "四川省-全称",
+    "coordinates": "29.6085134,105.0672464"
+  },
+  {
+    "province": "四川省",
+    "latitude": 31.4732595,
+    "longitude": 104.7381834,
+    "name": "Yinzhou Telecom IDC Data Center",
+    "source": "四川省-全称",
+    "coordinates": "31.4732595,104.7381834"
+  },
+  {
+    "province": "四川省",
+    "latitude": 28.8711301,
+    "longitude": 105.4392334,
+    "name": "Panzhihua Renmin Street Data Center",
+    "source": "四川省-全称",
+    "coordinates": "28.8711301,105.4392334"
+  },
+  {
+    "province": "四川省",
+    "latitude": 26.5761171,
+    "longitude": 101.708807,
+    "name": "Dazhou Data Center",
+    "source": "四川省-全称",
+    "coordinates": "26.5761171,101.708807"
+  },
+  {
+    "province": "四川省",
+    "latitude": 31.1978662,
+    "longitude": 107.5090321,
+    "name": "GDS CD2 Data Center",
+    "source": "四川省-全称",
+    "coordinates": "31.1978662,107.5090321"
+  },
+  {
+    "province": "四川省",
+    "latitude": 30.5542255,
+    "longitude": 104.2646142,
+    "name": "Mianyang Yongxing Data Center",
+    "source": "四川省-全称",
+    "coordinates": "30.5542255,104.2646142"
+  },
+  {
+    "province": "四川省",
+    "latitude": 31.4542513,
+    "longitude": 104.6384774,
+    "name": "Chengdu Guanghua IDC Data Center",
+    "source": "四川省-全称",
+    "coordinates": "31.4542513,104.6384774"
+  },
+  {
+    "province": "四川省",
+    "latitude": 30.6775863,
+    "longitude": 103.8874087,
+    "name": "Chengdu Xixin West District Data Center",
+    "source": "四川省-全称",
+    "coordinates": "30.6775863,103.8874087"
+  },
+  {
+    "province": "四川省",
+    "latitude": 30.7584381,
+    "longitude": 103.899651,
+    "name": "Nanchong Data Center",
+    "source": "四川省-全称",
+    "coordinates": "30.7584381,103.899651"
+  },
+  {
+    "province": "四川省",
+    "latitude": 31.142681,
+    "longitude": 104.417051,
+    "name": "Leshan Tianxing Road Data Center",
+    "source": "四川省-简称",
+    "coordinates": "31.142681,104.417051"
+  },
+  {
+    "province": "四川省",
+    "latitude": 29.555374,
+    "longitude": 103.761329,
+    "name": "Guangyuan IDC Data Center",
+    "source": "四川省-简称",
+    "coordinates": "29.555374,103.761329"
+  },
+  {
+    "province": "四川省",
+    "latitude": 32.433755,
+    "longitude": 105.845307,
+    "name": "Sichuan",
+    "source": "四川省-简称",
+    "coordinates": "32.433755,105.845307"
+  },
+  {
+    "province": "云南省",
+    "latitude": 25.0452999,
+    "longitude": 102.7097299,
+    "name": "Kunming 72 Bureau IDC Data Center",
+    "source": "云南省-全称",
+    "coordinates": "25.0452999,102.7097299"
+  },
+  {
+    "province": "云南省",
+    "latitude": 24.9939041,
+    "longitude": 102.7806944,
+    "name": "Yunnan Sheng",
+    "source": "云南省-全称",
+    "coordinates": "24.9939041,102.7806944"
+  },
+  {
+    "province": "贵州省",
+    "latitude": 26.5981999,
+    "longitude": 106.70722,
+    "name": "Guizhou Data Center",
+    "source": "贵州省-简称",
+    "coordinates": "26.5981999,106.70722"
+  },
+  {
+    "province": "贵州省",
+    "latitude": 26.6475899,
+    "longitude": 106.63019,
+    "name": "Guian Data Center",
+    "source": "贵州省-简称",
+    "coordinates": "26.6475899,106.63019"
+  },
+  {
+    "province": "贵州省",
+    "latitude": 26.34711,
+    "longitude": 106.45456,
+    "name": "Guiyang Cloud Computing Park Data Center",
+    "source": "贵州省-简称",
+    "coordinates": "26.34711,106.45456"
+  },
+  {
+    "province": "贵州省",
+    "latitude": 26.405715,
+    "longitude": 106.256412,
+    "name": "Guizhou Telecom Second Hub Data Center",
+    "source": "贵州省-简称",
+    "coordinates": "26.405715,106.256412"
+  },
+  {
+    "province": "贵州省",
+    "latitude": 26.60145,
+    "longitude": 106.622453,
+    "name": "Guizhou",
+    "source": "贵州省-简称",
+    "coordinates": "26.60145,106.622453"
+  }
+]

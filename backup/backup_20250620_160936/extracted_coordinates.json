@@ -1,0 +1,162 @@
+[
+  {
+    "index": 1,
+    "latitude": 30.6508899,
+    "longitude": 104.07572,
+    "province": "四川省",
+    "name": "四川省数据中心1",
+    "source": "HTML解析"
+  },
+  {
+    "index": 2,
+    "latitude": 30.572141,
+    "longitude": 104.0656266,
+    "province": "四川省",
+    "name": "四川省数据中心2",
+    "source": "HTML解析"
+  },
+  {
+    "index": 3,
+    "latitude": 30.6635912,
+    "longitude": 104.0770158,
+    "province": "四川省",
+    "name": "四川省数据中心3",
+    "source": "HTML解析"
+  },
+  {
+    "index": 4,
+    "latitude": 28.7591192,
+    "longitude": 104.6384874,
+    "province": "四川省",
+    "name": "四川省数据中心4",
+    "source": "HTML解析"
+  },
+  {
+    "index": 5,
+    "latitude": 30.622647,
+    "longitude": 104.124024,
+    "province": "四川省",
+    "name": "四川省数据中心5",
+    "source": "HTML解析"
+  },
+  {
+    "index": 6,
+    "latitude": 30.6494713,
+    "longitude": 103.8175958,
+    "province": "四川省",
+    "name": "四川省数据中心6",
+    "source": "HTML解析"
+  },
+  {
+    "index": 7,
+    "latitude": 30.6700466,
+    "longitude": 103.9993156,
+    "province": "四川省",
+    "name": "四川省数据中心7",
+    "source": "HTML解析"
+  },
+  {
+    "index": 8,
+    "latitude": 30.635812,
+    "longitude": 104.0954743,
+    "province": "四川省",
+    "name": "四川省数据中心8",
+    "source": "HTML解析"
+  },
+  {
+    "index": 9,
+    "latitude": 30.1340999,
+    "longitude": 104.6357034,
+    "province": "四川省",
+    "name": "四川省数据中心9",
+    "source": "HTML解析"
+  },
+  {
+    "index": 10,
+    "latitude": 30.5528717,
+    "longitude": 104.0568206,
+    "province": "四川省",
+    "name": "四川省数据中心10",
+    "source": "HTML解析"
+  },
+  {
+    "index": 11,
+    "latitude": 29.6085134,
+    "longitude": 105.0672464,
+    "province": "四川省",
+    "name": "四川省数据中心11",
+    "source": "HTML解析"
+  },
+  {
+    "index": 12,
+    "latitude": 31.4732595,
+    "longitude": 104.7381834,
+    "province": "四川省",
+    "name": "四川省数据中心12",
+    "source": "HTML解析"
+  },
+  {
+    "index": 13,
+    "latitude": 28.8711301,
+    "longitude": 105.4392334,
+    "province": "四川省",
+    "name": "四川省数据中心13",
+    "source": "HTML解析"
+  },
+  {
+    "index": 14,
+    "latitude": 26.5761171,
+    "longitude": 101.708807,
+    "province": "四川省",
+    "name": "四川省数据中心14",
+    "source": "HTML解析"
+  },
+  {
+    "index": 15,
+    "latitude": 31.1978662,
+    "longitude": 107.5090321,
+    "province": "四川省",
+    "name": "四川省数据中心15",
+    "source": "HTML解析"
+  },
+  {
+    "index": 16,
+    "latitude": 30.5542255,
+    "longitude": 104.2646142,
+    "province": "四川省",
+    "name": "四川省数据中心16",
+    "source": "HTML解析"
+  },
+  {
+    "index": 17,
+    "latitude": 31.4542513,
+    "longitude": 104.6384774,
+    "province": "四川省",
+    "name": "四川省数据中心17",
+    "source": "HTML解析"
+  },
+  {
+    "index": 18,
+    "latitude": 30.6775863,
+    "longitude": 103.8874087,
+    "province": "四川省",
+    "name": "四川省数据中心18",
+    "source": "HTML解析"
+  },
+  {
+    "index": 19,
+    "latitude": 30.7584381,
+    "longitude": 103.899651,
+    "province": "四川省",
+    "name": "四川省数据中心19",
+    "source": "HTML解析"
+  },
+  {
+    "index": 20,
+    "latitude": 31.4542513,
+    "longitude": 104.6384774,
+    "province": "四川省",
+    "name": "四川省数据中心20",
+    "source": "HTML解析"
+  }
+]

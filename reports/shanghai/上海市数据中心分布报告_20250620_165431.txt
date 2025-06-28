@@ -1,0 +1,221 @@
+上海市数据中心分布分析报告
+============================================================
+
+爬取时间: 2025-06-20 16:54:31
+总数据中心数量: 30
+数据质量: 已严格剔除周边地区错分数据
+
+数据源统计:
+------------------------------
+上海市-shanghai-shanghai: 30 个数据中心
+
+区域分布统计:
+--------------------
+上海市: 30 个数据中心
+
+详细列表:
+--------------------
+
+上海市 (30 个):
+   1. SH6 Shanghai Data Center
+      坐标: (31.738270, 121.611248)
+      来源: 上海市-shanghai-shanghai
+      爬取时间: 2025-06-20 16:52:49
+      验证状态: valid
+
+   2. SH5 Yangpu District Data Center
+      坐标: (31.342740, 121.609360)
+      来源: 上海市-shanghai-shanghai
+      爬取时间: 2025-06-20 16:52:49
+      验证状态: valid
+
+   3. SH3 Pudong New Area Data Center
+      坐标: (31.507004, 121.507389)
+      来源: 上海市-shanghai-shanghai
+      爬取时间: 2025-06-20 16:52:49
+      验证状态: valid
+
+   4. Shanghai Data Center
+      坐标: (31.020310, 121.441102)
+      来源: 上海市-shanghai-shanghai
+      爬取时间: 2025-06-20 16:52:49
+      验证状态: valid
+
+   5. China Data Center
+      坐标: (31.246309, 121.619022)
+      来源: 上海市-shanghai-shanghai
+      爬取时间: 2025-06-20 16:52:49
+      验证状态: valid
+
+   6. Shanghai Telecom Caoxi Data Center
+      坐标: (31.228410, 121.622600)
+      来源: 上海市-shanghai-shanghai
+      爬取时间: 2025-06-20 16:52:49
+      验证状态: valid
+
+   7. GDS SH3, SH4 Data Center
+      坐标: (31.212740, 121.504401)
+      来源: 上海市-shanghai-shanghai
+      爬取时间: 2025-06-20 16:52:49
+      验证状态: valid
+
+   8. Information Park Data Center
+      坐标: (31.317230, 121.651150)
+      来源: 上海市-shanghai-shanghai
+      爬取时间: 2025-06-20 16:52:49
+      验证状态: valid
+
+   9. Suzhou Chang'an Road Data Center
+      坐标: (31.183749, 121.620243)
+      来源: 上海市-shanghai-shanghai
+      爬取时间: 2025-06-20 16:52:49
+      验证状态: valid
+
+  10. SHA5 Shanghai Data Center
+      坐标: (31.221517, 121.452400)
+      来源: 上海市-shanghai-shanghai
+      爬取时间: 2025-06-20 16:52:49
+      验证状态: valid
+
+  11. Shanghai Hulan IDC Data Center
+      坐标: (31.320884, 121.637960)
+      来源: 上海市-shanghai-shanghai
+      爬取时间: 2025-06-20 16:52:49
+      验证状态: valid
+
+  12. Shanghai Hotline Information Building Data Center
+      坐标: (31.230416, 121.310130)
+      来源: 上海市-shanghai-shanghai
+      爬取时间: 2025-06-20 16:52:49
+      验证状态: valid
+
+  13. SH1 Pudong New Area Data Center
+      坐标: (31.276205, 121.749533)
+      来源: 上海市-shanghai-shanghai
+      爬取时间: 2025-06-20 16:52:49
+      验证状态: valid
+
+  14. SH2 Data Center
+      坐标: (31.313834, 121.595660)
+      来源: 上海市-shanghai-shanghai
+      爬取时间: 2025-06-20 16:52:49
+      验证状态: valid
+
+  15. Shanghai Jinqiao Data Center
+      坐标: (31.344898, 121.629680)
+      来源: 上海市-shanghai-shanghai
+      爬取时间: 2025-06-20 16:52:49
+      验证状态: valid
+
+  16. Kunshan Data Center (KS2)
+      坐标: (31.321610, 121.541634)
+      来源: 上海市-shanghai-shanghai
+      爬取时间: 2025-06-20 16:52:49
+      验证状态: valid
+
+  17. Shanghai Data Center (SH8)
+      坐标: (31.303566, 121.620621)
+      来源: 上海市-shanghai-shanghai
+      爬取时间: 2025-06-20 16:52:49
+      验证状态: valid
+
+  18. Shanghai Zhangjiang Data Center
+      坐标: (31.670484, 121.623306)
+      来源: 上海市-shanghai-shanghai
+      爬取时间: 2025-06-20 16:52:49
+      验证状态: valid
+
+  19. Shanghai Data Center (SH13)
+      坐标: (31.236450, 121.437136)
+      来源: 上海市-shanghai-shanghai
+      爬取时间: 2025-06-20 16:52:49
+      验证状态: valid
+
+  20. Shanghai Data Center (SH19)
+      坐标: (31.276786, 121.606972)
+      来源: 上海市-shanghai-shanghai
+      爬取时间: 2025-06-20 16:52:49
+      验证状态: valid
+
+  21. Nanhui IDC Data Center
+      坐标: (31.106500, 121.544379)
+      来源: 上海市-shanghai-shanghai
+      爬取时间: 2025-06-20 16:52:49
+      验证状态: valid
+
+  22. SH2 Pudong New Area Data Center
+      坐标: (31.069961, 121.541897)
+      来源: 上海市-shanghai-shanghai
+      爬取时间: 2025-06-20 16:52:49
+      验证状态: valid
+
+  23. Shanghai Data Center (SH14)
+      坐标: (31.240308, 121.451176)
+      来源: 上海市-shanghai-shanghai
+      爬取时间: 2025-06-20 16:52:49
+      验证状态: valid
+
+  24. Shanghai Data Center (SH11)
+      坐标: (31.871325, 121.509968)
+      来源: 上海市-shanghai-shanghai
+      爬取时间: 2025-06-20 16:52:49
+      验证状态: valid
+
+  25. Shanghai Data Center (SH17)
+      坐标: (31.266133, 121.637741)
+      来源: 上海市-shanghai-shanghai
+      爬取时间: 2025-06-20 16:52:49
+      验证状态: valid
+
+  26. Shanghai Telecom Guoli Data Center
+      坐标: (31.309698, 121.602080)
+      来源: 上海市-shanghai-shanghai
+      爬取时间: 2025-06-20 16:52:49
+      验证状态: valid
+
+  27. Shanghai Data Center (SH18)
+      坐标: (31.308910, 121.504280)
+      来源: 上海市-shanghai-shanghai
+      爬取时间: 2025-06-20 16:52:49
+      验证状态: valid
+
+  28. Shanghai East Gate IDC Data Center
+      坐标: (31.341850, 121.447930)
+      来源: 上海市-shanghai-shanghai
+      爬取时间: 2025-06-20 16:52:49
+      验证状态: valid
+
+  29. Changshu Road IDC Data Center
+      坐标: (31.236890, 121.653100)
+      来源: 上海市-shanghai-shanghai
+      爬取时间: 2025-06-20 16:52:49
+      验证状态: valid
+
+  30. Shanghai Data Center (SH5)
+      坐标: (31.218747, 121.473701)
+      来源: 上海市-shanghai-shanghai
+      爬取时间: 2025-06-20 16:52:49
+      验证状态: valid
+
+地理分布分析:
+--------------------
+纬度范围: 31.020310 ~ 31.871325
+经度范围: 121.310130 ~ 121.749533
+中心点: (31.309458, 121.558593)
+覆盖范围: 严格限制在上海市行政区域内
+
+数据质量保证:
+--------------------
+1. 地理边界验证：纬度30.67°-31.88°，经度120.85°-122.12°
+2. 排除区域：苏州、昆山、嘉兴、海宁等周边地区
+3. 核心区域保护：确保市中心、浦东等核心区域数据完整
+4. 名称验证：检查数据中心名称与上海的关联度
+5. 去重策略：基于坐标精度到小数点后6位
+
+技术说明:
+--------------------
+1. 爬取范围：上海市16个区（含浦东新区）
+2. 主要数据源：https://www.datacenters.com/locations/china/shanghai/shanghai
+3. 边界检查：多重验证机制确保数据准确性
+4. 数据来源：datacenters.com网站
+5. 爬取策略：多URL变体，涵盖各区级查询

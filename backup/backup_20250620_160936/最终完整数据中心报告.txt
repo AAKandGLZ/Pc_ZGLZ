@@ -1,0 +1,171 @@
+最终完整三省数据中心分布报告
+============================================================
+
+爬取时间: 2025-06-20 15:10:58
+总数据中心数量: 34
+
+包含的数据源:
+------------------------------
+四川省-sichuan-sheng: 19 个数据中心
+四川省-si-chuan-sheng: 5 个数据中心
+四川省-sichuan: 3 个数据中心
+云南省-yunnan-sheng: 2 个数据中心
+贵州省-guizhou: 5 个数据中心
+
+各省份分布:
+--------------------
+四川省: 27 个数据中心
+云南省: 2 个数据中心
+贵州省: 5 个数据中心
+
+详细列表:
+--------------------
+
+四川省 (27 个):
+   1. CTU1 Sichuan Sheng Data Center
+      坐标: (30.650890, 104.075720)
+      来源: 四川省-sichuan-sheng
+
+   2. Chengdu Taisheng IDC Data Center
+      坐标: (30.572141, 104.065627)
+      来源: 四川省-sichuan-sheng
+
+   3. Yibin IDC Data Center
+      坐标: (30.663591, 104.077016)
+      来源: 四川省-sichuan-sheng
+
+   4. Chengdu Shahebao IDC Data Center
+      坐标: (28.759119, 104.638487)
+      来源: 四川省-sichuan-sheng
+
+   5. Chengdu 6 Data Center
+      坐标: (30.622647, 104.124024)
+      来源: 四川省-sichuan-sheng
+
+   6. Tianfu Hotline 2 Hub Data Center
+      坐标: (30.649471, 103.817596)
+      来源: 四川省-sichuan-sheng
+
+   7. Chengdu Lotus IDC Data Center
+      坐标: (30.670047, 103.999316)
+      来源: 四川省-sichuan-sheng
+
+   8. Ziyang Data Center
+      坐标: (30.635812, 104.095474)
+      来源: 四川省-sichuan-sheng
+
+   9. Chengdu Xixin IDC Data Center
+      坐标: (30.134100, 104.635703)
+      来源: 四川省-sichuan-sheng
+
+  10. Neijiang IDC Data Center
+      坐标: (30.552872, 104.056821)
+      来源: 四川省-sichuan-sheng
+
+  11. Mianyang China Telecom Data Center
+      坐标: (29.608513, 105.067246)
+      来源: 四川省-sichuan-sheng
+
+  12. Yinzhou Telecom IDC Data Center
+      坐标: (31.473260, 104.738183)
+      来源: 四川省-sichuan-sheng
+
+  13. Panzhihua Renmin Street Data Center
+      坐标: (28.871130, 105.439233)
+      来源: 四川省-sichuan-sheng
+
+  14. Dazhou Data Center
+      坐标: (26.576117, 101.708807)
+      来源: 四川省-sichuan-sheng
+
+  15. GDS CD2 Data Center
+      坐标: (31.197866, 107.509032)
+      来源: 四川省-sichuan-sheng
+
+  16. Mianyang Yongxing Data Center
+      坐标: (30.554226, 104.264614)
+      来源: 四川省-sichuan-sheng
+
+  17. Chengdu Guanghua IDC Data Center
+      坐标: (31.454251, 104.638477)
+      来源: 四川省-sichuan-sheng
+
+  18. Chengdu Xixin West District Data Center
+      坐标: (30.677586, 103.887409)
+      来源: 四川省-sichuan-sheng
+
+  19. Nanchong Data Center
+      坐标: (30.758438, 103.899651)
+      来源: 四川省-sichuan-sheng
+
+  20. CTU4 Chengdu Data Center
+      坐标: (30.765906, 103.903881)
+      来源: 四川省-si-chuan-sheng
+
+  21. Chengdu Data Center CD1
+      坐标: (30.647958, 103.818156)
+      来源: 四川省-si-chuan-sheng
+
+  22. Chengdu Data Center CD2
+      坐标: (31.473807, 104.684190)
+      来源: 四川省-si-chuan-sheng
+
+  23. 四川省数据中心8
+      坐标: (30.551770, 104.066898)
+      来源: 四川省-si-chuan-sheng
+
+  24. 四川省数据中心9
+      坐标: (30.613020, 104.076920)
+      来源: 四川省-si-chuan-sheng
+
+  25. Leshan Tianxing Road Data Center
+      坐标: (31.142681, 104.417051)
+      来源: 四川省-sichuan
+
+  26. Guangyuan IDC Data Center
+      坐标: (29.555374, 103.761329)
+      来源: 四川省-sichuan
+
+  27. Sichuan
+      坐标: (32.433755, 105.845307)
+      来源: 四川省-sichuan
+
+
+云南省 (2 个):
+   1. Kunming 72 Bureau IDC Data Center
+      坐标: (25.045300, 102.709730)
+      来源: 云南省-yunnan-sheng
+
+   2. Yunnan Sheng
+      坐标: (24.993904, 102.780694)
+      来源: 云南省-yunnan-sheng
+
+
+贵州省 (5 个):
+   1. Guizhou Data Center
+      坐标: (26.598200, 106.707220)
+      来源: 贵州省-guizhou
+
+   2. Guian Data Center
+      坐标: (26.647590, 106.630190)
+      来源: 贵州省-guizhou
+
+   3. Guiyang Cloud Computing Park Data Center
+      坐标: (26.347110, 106.454560)
+      来源: 贵州省-guizhou
+
+   4. Guizhou Telecom Second Hub Data Center
+      坐标: (26.405715, 106.256412)
+      来源: 贵州省-guizhou
+
+   5. Guizhou
+      坐标: (26.601450, 106.622453)
+      来源: 贵州省-guizhou
+
+🔍 新发现的重要数据源:
+si-chuan-sheng URL: 发现了额外的 5 个数据中心
+这个URL之前被遗漏，包含重要的四川省数据中心信息
+
+坐标范围分析:
+  纬度范围: 24.993904 ~ 32.433755
+  经度范围: 101.708807 ~ 107.509032
